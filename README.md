@@ -17,13 +17,14 @@ Some general remarks on the process
 
 
 # Ranking
-* did something very robust, and only printed it out, so here's the output:
+* I used an LLM to first classify the "future_output" into "good"  / "bad" / "neutral"
+* did something very robust with this (sum), and only printed it out, so here's the output:
 
 ![img_1.png](img_1.png)
 
 # Prediction
 
-* I used an LLM to first classify the "future_output" into "good"  / "bad" / "neutral"
+* I used the classification I did of "future_output" into "good"  / "bad" / "neutral"
 * did not take the "neutral" into account in this classifier (so it is not a 3-class classifier)
 * with more examples, I think it should be added
 
