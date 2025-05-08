@@ -19,20 +19,7 @@ Some general remarks on the process
 # Ranking
 * did something very robust, and only printed it out, so here's the output:
 
-  Doctor ranking by success score:
-  class      success_score
-  doctor_id               
-  dr_03                 41
-  dr_05                  9
-  dr_06                  4
-  dr_02                  0
-  dr_01                 -1
-  dr_04                 -1
-  dr_08                 -8
-  dr_09                 -8
-  dr_10                -11
-  dr_07                -34
-
+![img_1.png](img_1.png)
 
 # Prediction
 
