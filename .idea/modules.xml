@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Klalit-exercise.iml" filepath="$PROJECT_DIR$/.idea/Klalit-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/klalit-exr.iml" filepath="$PROJECT_DIR$/.idea/klalit-exr.iml" />
     </modules>
   </component>
 </project>
