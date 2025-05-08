@@ -46,6 +46,6 @@ Some general remarks on the process
 bad       0.77      0.57      0.66        35
 good      0.64      0.82      0.72        33
 
-#Dockerization
+# Dockerization
 * added the requirements.txt file and a basic Dockerfile
 * did NOT check if it actually works! (out of time for this)
