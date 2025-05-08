@@ -46,7 +46,9 @@ Some general remarks on the process
 
 * did this very quickly, so the results are not very good
 
-![img.png](img.png)
+      precision    recall  f1-score   support
+bad       0.77      0.57      0.66        35
+good      0.64      0.82      0.72        33
 
 # Dockerization
 * added the requirements.txt file and a basic Dockerfile
