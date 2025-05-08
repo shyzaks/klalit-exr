@@ -40,6 +40,10 @@ Some general remarks on the process
 * did not take the "neutral" into account in this classifier (so it is not a 3-class classifier)
 * with more examples, I think it should be added
 
+* I chose an approach that takes a pretrained model to get "smart" embeddings
+* but that further fine-tunes the model on the data (via transformer layers)
+* there is certainly much that can be improved here, but I think this is a good start
+
 * did this very quickly, so the results are not very good
 
       precision    recall  f1-score   support
