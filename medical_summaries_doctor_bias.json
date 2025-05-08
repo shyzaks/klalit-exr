@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "db82d179-076f-42cb-a5df-1bf10e67af53",
+    "doctor_id": "dr_10",
+    "summary": "Follow-up for diabetes. Improvements noted. Will reassess in 1 month.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "cbe6cd79-717b-44bf-b21b-95a222da6ce3",
+    "doctor_id": "dr_03",
+    "summary": "Follow-up for migraines. Improvements noted. Will reassess in 3 days.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "f8f1d36f-97c4-4ba9-9ec4-3c048a3fadff",
+    "doctor_id": "dr_02",
+    "summary": "Discussed test results for CT scan. Findings indicate normal limits. Next steps: schedule a follow-up.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "ee19c01a-551f-4d47-8879-d5eac4896ff7",
+    "doctor_id": "dr_04",
+    "summary": "Presented with shortness of breath, ongoing for 3 days. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "8ef51995-cd3e-4e1d-986b-cacf27b8ae9a",
+    "doctor_id": "dr_04",
+    "summary": "Patient experiencing abdominal pain after recent viral infection. Recommended Amoxicillin. Referral to orthopedics.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "c91c60c7-b830-4252-b864-e24adf2593c0",
+    "doctor_id": "dr_08",
+    "summary": "Discussed test results for X-ray. Findings indicate normal limits. Next steps: observe for now.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "481957a5-af95-423d-8843-22ec82e5b597",
+    "doctor_id": "dr_09",
+    "summary": "Complaints of rash. Suspected bronchitis. Ordered blood test and started topical cream.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "f36b7b8d-1f82-43db-85ac-a8e784adcb76",
+    "doctor_id": "dr_10",
+    "summary": "Reviewed past medical history of eczema. Current symptoms stable. Advised improved sleep hygiene.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "1c4615b5-c414-467c-b353-bd65e189c95c",
+    "doctor_id": "dr_07",
+    "summary": "Complaints of headache. Suspected migraine. Ordered X-ray and started topical cream.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "97242adb-3fbd-444c-ac87-69229eaf1060",
+    "doctor_id": "dr_01",
+    "summary": "Consultation regarding anemia. No alarming signs. Suggested inhaler use and routine monitoring.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "4972b7b3-2c3b-4cd4-b19b-bc6483943ce0",
+    "doctor_id": "dr_06",
+    "summary": "Presented with back pain, ongoing for 1 week. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "9fc32a0e-9b97-4fea-b414-03105670c2f6",
+    "doctor_id": "dr_10",
+    "summary": "Patient reported ongoing fatigue. Prescribed Lisinopril and advised to return if worsens. Follow-up in 3 days.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "e2f63ddd-16f0-4633-85bc-1ba4e432ede2",
+    "doctor_id": "dr_04",
+    "summary": "Patient in for vaccination. Administered tetanus shot. No adverse reactions observed.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "d07fc217-4491-471e-8ae2-25550fe49a16",
+    "doctor_id": "dr_06",
+    "summary": "Reviewed past medical history of migraines. Current symptoms stable. Advised regular exercise.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "fb3adebc-e9c7-44ca-99d6-6e77c1f6b119",
+    "doctor_id": "dr_01",
+    "summary": "Reviewed past medical history of asthma. Current symptoms stable. Advised reduced salt intake.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "6226bbf7-ad62-46df-a969-4c5b92aba708",
+    "doctor_id": "dr_05",
+    "summary": "Complaints of headache. Suspected bronchitis. Ordered blood test and started inhaler use.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "90db4197-e7c8-4a1c-a3e2-09b346ca30c5",
+    "doctor_id": "dr_09",
+    "summary": "Discussed test results for X-ray. Findings indicate mild inflammation. Next steps: refer to specialist.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "051a9d6b-5ac4-4a24-8ba0-4dd3f1fe9252",
+    "doctor_id": "dr_10",
+    "summary": "Patient reported ongoing fatigue. Prescribed Ibuprofen and advised to monitor symptoms. Follow-up in 1 month.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "1029c7de-7665-4b05-99a6-d0e08edfec92",
+    "doctor_id": "dr_03",
+    "summary": "Consultation regarding migraines. No alarming signs. Suggested topical cream and routine monitoring.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "7a7afffb-c84b-4131-aef2-f7d66309ed49",
+    "doctor_id": "dr_05",
+    "summary": "Follow-up for asthma. Improvements noted. Will reassess in 3 days.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "1043264a-03ba-4060-925e-76238695d172",
+    "doctor_id": "dr_04",
+    "summary": "Presented with abdominal pain, ongoing for 2 weeks. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "1976be51-c63f-4199-86b5-288c706abdbd",
+    "doctor_id": "dr_03",
+    "summary": "Routine check-up. Vitals within normal range. Discussed sleep habits. Continue current medications.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "6824573b-05ea-4167-ba79-470e3b39a9a9",
+    "doctor_id": "dr_10",
+    "summary": "Patient in for vaccination. Administered hepatitis B shot. No adverse reactions observed.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "27bb803b-1c28-4d88-9c24-58dbcd5ac18d",
+    "doctor_id": "dr_08",
+    "summary": "Follow-up for asthma. Improvements noted. Will reassess in 2 weeks.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "e445be16-815f-45db-80d5-ef3e6f277f78",
+    "doctor_id": "dr_04",
+    "summary": "Follow-up for eczema. Improvements noted. Will reassess in 3 days.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "d45dba9c-1f84-4310-a1de-1abd5e0b4ad6",
+    "doctor_id": "dr_10",
+    "summary": "Patient experiencing headache after recent minor surgery. Recommended Metformin. Referral to neurology.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "1ca48d77-012a-4510-b989-731b3a7db615",
+    "doctor_id": "dr_10",
+    "summary": "Complaints of dizziness. Suspected bronchitis. Ordered blood test and started dietary modifications.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "88b2b030-17ef-44e2-ad91-e88c0cc80bc7",
+    "doctor_id": "dr_01",
+    "summary": "Patient reported ongoing dizziness. Prescribed Paracetamol and advised to monitor symptoms. Follow-up in 1 month.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "84f1e67c-0fe0-4a79-b12f-131891835ec6",
+    "doctor_id": "dr_02",
+    "summary": "Follow-up for hypertension. Improvements noted. Will reassess in 1 month.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "ca0f0356-1ba9-4fb1-9f6e-659b79c08a7e",
+    "doctor_id": "dr_07",
+    "summary": "Follow-up for eczema. Improvements noted. Will reassess in 1 month.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "3ff5cd7b-d206-4421-91e1-70fb756ae5ea",
+    "doctor_id": "dr_02",
+    "summary": "Consultation regarding asthma. No alarming signs. Suggested topical cream and routine monitoring.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "30e37fbf-767b-4ac9-a2da-73547d170db1",
+    "doctor_id": "dr_06",
+    "summary": "Complaints of fatigue. Suspected bronchitis. Ordered X-ray and started inhaler use.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "96ae29b2-aba8-4a6c-9f0a-33618a28d81e",
+    "doctor_id": "dr_10",
+    "summary": "Complaints of dizziness. Suspected migraine. Ordered X-ray and started dietary modifications.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "a46f22fe-6c57-4550-b03e-d95dc882236d",
+    "doctor_id": "dr_06",
+    "summary": "Complaints of shortness of breath. Suspected sinusitis. Ordered ECG and started inhaler use.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "b07d8515-ba33-4da0-b662-c3318d2035bb",
+    "doctor_id": "dr_04",
+    "summary": "Follow-up for eczema. Improvements noted. Will reassess in 2 weeks.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "c04dc793-3eb1-4269-9460-2aef79b04a84",
+    "doctor_id": "dr_03",
+    "summary": "Presented with abdominal pain, ongoing for 3 days. Physical exam normal. Plan: pain management.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "cdabf65e-d60a-4db5-b7f4-76a87e3ed4b6",
+    "doctor_id": "dr_05",
+    "summary": "Discussed test results for blood test. Findings indicate no abnormalities. Next steps: schedule a follow-up.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "fb28ae48-0302-4600-9ce2-e195c5638d2b",
+    "doctor_id": "dr_06",
+    "summary": "Presented with rash, ongoing for 2 weeks. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "0ee2bfe4-ae98-4efc-bd12-d908b9110593",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing back pain after recent fall. Recommended Amoxicillin. Referral to orthopedics.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "835dd655-16dd-4948-bdd1-a90c637a5840",
+    "doctor_id": "dr_05",
+    "summary": "Presented with cough, ongoing for 2 weeks. Physical exam normal. Plan: pain management.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "c295d4b5-15ff-4183-b4b0-829370a6ab8f",
+    "doctor_id": "dr_10",
+    "summary": "Routine check-up. Vitals within normal range. Discussed mental health. Continue current medications.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "fc165d10-f980-48d7-8748-60dc4b85c61a",
+    "doctor_id": "dr_09",
+    "summary": "Patient reported ongoing back pain. Prescribed Ibuprofen and advised to return if worsens. Follow-up in 3 days.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "9e2f42c6-8f87-4d1d-9110-44cfb0907a4d",
+    "doctor_id": "dr_06",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Amoxicillin and advised to return if worsens. Follow-up in 2 weeks.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "a0322528-cc72-4281-8fd2-15fb92548e7e",
+    "doctor_id": "dr_09",
+    "summary": "Complaints of fatigue. Suspected UTI. Ordered X-ray and started lifestyle changes.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "b14f555a-9bf6-47aa-96c1-70285cb119f7",
+    "doctor_id": "dr_05",
+    "summary": "Complaints of fatigue. Suspected sinusitis. Ordered MRI and started dietary modifications.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "b8dc5f90-e827-4a31-ad39-7cc9868bf09e",
+    "doctor_id": "dr_02",
+    "summary": "Patient reported ongoing cough. Prescribed Ventolin and advised to return if worsens. Follow-up in 2 weeks.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "f04a38b3-2ba0-4342-bc3b-f02bc3e17aad",
+    "doctor_id": "dr_08",
+    "summary": "Presented with dizziness, ongoing for 3 days. Physical exam normal. Plan: pain management.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "95db7d62-31bc-47a0-b915-8e930a2cff50",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing shortness of breath after recent minor surgery. Recommended Paracetamol. Referral to cardiology.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "003c8601-21b8-4227-8583-c59c7d950c68",
+    "doctor_id": "dr_05",
+    "summary": "Patient reported ongoing shortness of breath. Prescribed Paracetamol and advised to rest. Follow-up in 1 month.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "9e1a9a88-d4d5-4bae-ae95-03b6f3422207",
+    "doctor_id": "dr_02",
+    "summary": "Discussed test results for CT scan. Findings indicate mild inflammation. Next steps: refer to specialist.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "1c1988a5-d5c3-4ef1-807a-982f524d2d37",
+    "doctor_id": "dr_05",
+    "summary": "Consultation regarding hypertension. No alarming signs. Suggested topical cream and routine monitoring.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "ea632464-70fd-4abc-b33d-f70d13cc23e3",
+    "doctor_id": "dr_07",
+    "summary": "Patient in for vaccination. Administered COVID-19 booster. No adverse reactions observed.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "9b1df000-4abb-49b1-aa33-5953abb87493",
+    "doctor_id": "dr_07",
+    "summary": "Discussed test results for MRI. Findings indicate mild inflammation. Next steps: start medication.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "7001017d-0306-49d5-93c4-b7fecae3246a",
+    "doctor_id": "dr_01",
+    "summary": "Patient reported ongoing dizziness. Prescribed Ventolin and advised to rest. Follow-up in 1 week.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "777203c0-d187-40ba-a9cc-e32e1a95bce8",
+    "doctor_id": "dr_02",
+    "summary": "Discussed test results for X-ray. Findings indicate elevated levels. Next steps: refer to specialist.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "310934bd-0fd8-4d51-a7d6-1103eb13add5",
+    "doctor_id": "dr_09",
+    "summary": "Routine check-up. Vitals within normal range. Discussed diet. Continue current medications.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "b174e658-b4f1-4477-be92-5fa642b197aa",
+    "doctor_id": "dr_08",
+    "summary": "Reviewed past medical history of asthma. Current symptoms stable. Advised regular exercise.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "e66b2118-c644-4f4f-b735-45ac92580f02",
+    "doctor_id": "dr_06",
+    "summary": "Reviewed past medical history of asthma. Current symptoms stable. Advised smoking cessation.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "c4c65929-e678-46ee-9c72-3647d574616e",
+    "doctor_id": "dr_04",
+    "summary": "Discussed test results for blood test. Findings indicate normal limits. Next steps: start medication.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "d34c3289-dfb3-4c49-b45f-83b4ce6687a8",
+    "doctor_id": "dr_05",
+    "summary": "Follow-up for migraines. Improvements noted. Will reassess in 1 month.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "7c4e09d5-1dbd-48dc-9f93-cc246763cd8a",
+    "doctor_id": "dr_09",
+    "summary": "Presented with abdominal pain, ongoing for 1 week. Physical exam normal. Plan: start antibiotics.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "a639cc0e-4b4b-43c3-8e23-ba9d4f311745",
+    "doctor_id": "dr_01",
+    "summary": "Reviewed past medical history of anemia. Current symptoms stable. Advised reduced salt intake.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "410c754e-47cd-4d29-90db-9cfd051afc47",
+    "doctor_id": "dr_06",
+    "summary": "Patient reported ongoing rash. Prescribed Ventolin and advised to rest. Follow-up in 1 week.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "4b72373b-509b-4da5-8ecd-9d40f23d9473",
+    "doctor_id": "dr_06",
+    "summary": "Discussed test results for X-ray. Findings indicate normal limits. Next steps: start medication.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "e678391f-245f-4f8e-99f3-ecaf809aedc6",
+    "doctor_id": "dr_01",
+    "summary": "Patient reported ongoing cough. Prescribed Paracetamol and advised to return if worsens. Follow-up in 2 weeks.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "b0d9af9e-b3de-46a8-b806-5efe40700ddc",
+    "doctor_id": "dr_02",
+    "summary": "Patient reported ongoing cough. Prescribed Lisinopril and advised to rest. Follow-up in 1 week.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "3fd5e3d7-c3e0-4f5f-97d2-d54d838acef3",
+    "doctor_id": "dr_08",
+    "summary": "Presented with headache, ongoing for 2 weeks. Physical exam normal. Plan: pain management.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "8158191f-6a8a-4cb1-ada6-d78c4df1a1b7",
+    "doctor_id": "dr_10",
+    "summary": "Patient experiencing headache after recent travel. Recommended Amoxicillin. Referral to cardiology.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "690b63d6-16ae-4b92-a404-696e15600b65",
+    "doctor_id": "dr_08",
+    "summary": "Follow-up for asthma. Improvements noted. Will reassess in 1 week.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "f6794f67-84f9-48b4-9838-944ce74e0d7c",
+    "doctor_id": "dr_01",
+    "summary": "Complaints of headache. Suspected sinusitis. Ordered blood test and started topical cream.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "98599722-308d-486f-982f-e36194215485",
+    "doctor_id": "dr_04",
+    "summary": "Complaints of cough. Suspected migraine. Ordered blood test and started dietary modifications.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "ff8a3c85-8390-4090-a319-5b770e7cb292",
+    "doctor_id": "dr_02",
+    "summary": "Follow-up for hypertension. Improvements noted. Will reassess in 1 week.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "36dc7f25-5bbd-4a32-b8d5-c9cd39464810",
+    "doctor_id": "dr_05",
+    "summary": "Presented with fatigue, ongoing for 1 week. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "116b233f-d030-459e-8dc8-2df588d992d2",
+    "doctor_id": "dr_10",
+    "summary": "Consultation regarding migraines. No alarming signs. Suggested inhaler use and routine monitoring.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "7e49fffe-0dea-4a4d-91c0-5e306cabbe3b",
+    "doctor_id": "dr_02",
+    "summary": "Presented with shortness of breath, ongoing for 2 weeks. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "d43671df-ed6b-4a3f-9a3a-83fa1a087522",
+    "doctor_id": "dr_10",
+    "summary": "Routine check-up. Vitals within normal range. Discussed exercise. Continue current medications.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "961dff35-798e-4f3e-b050-d457ce85cc21",
+    "doctor_id": "dr_01",
+    "summary": "Presented with fatigue, ongoing for 3 days. Physical exam normal. Plan: pain management.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "db4bf3ff-088a-4693-b5b1-7e0c88a13bce",
+    "doctor_id": "dr_05",
+    "summary": "Reviewed past medical history of anemia. Current symptoms stable. Advised improved sleep hygiene.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "1113ab85-301e-4927-a102-5ea851c4ed78",
+    "doctor_id": "dr_07",
+    "summary": "Presented with dizziness, ongoing for 2 weeks. Physical exam normal. Plan: pain management.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "fefb0088-7b38-4297-8691-8bafb1e823ee",
+    "doctor_id": "dr_05",
+    "summary": "Patient experiencing rash after recent minor surgery. Recommended Paracetamol. Referral to cardiology.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "3f8bde4b-6510-4573-a853-ea6c89b0b3a7",
+    "doctor_id": "dr_06",
+    "summary": "Consultation regarding eczema. No alarming signs. Suggested inhaler use and routine monitoring.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "5b6ce469-e882-4ca7-b705-800af42c3aad",
+    "doctor_id": "dr_01",
+    "summary": "Reviewed past medical history of asthma. Current symptoms stable. Advised improved sleep hygiene.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "1255d8f9-66ad-47dc-9837-a36fdb236b27",
+    "doctor_id": "dr_05",
+    "summary": "Patient reported ongoing headache. Prescribed Ibuprofen and advised to increase hydration. Follow-up in 3 days.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "9ebcd6b1-a6fe-4388-a169-82f9c26b7c4f",
+    "doctor_id": "dr_05",
+    "summary": "Patient in for vaccination. Administered influenza vaccine. No adverse reactions observed.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "9e8c0015-40c6-4887-a6e1-6a70a94940e4",
+    "doctor_id": "dr_01",
+    "summary": "Complaints of abdominal pain. Suspected UTI. Ordered blood test and started lifestyle changes.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "e195f7cf-dcdd-47cd-bbae-77638d8bc381",
+    "doctor_id": "dr_10",
+    "summary": "Discussed test results for CT scan. Findings indicate no abnormalities. Next steps: refer to specialist.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "fedd28e7-b0f7-468e-b8f6-88454f092f50",
+    "doctor_id": "dr_02",
+    "summary": "Complaints of fatigue. Suspected migraine. Ordered blood test and started lifestyle changes.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "47e12287-314c-448d-9247-d51b61c4ec53",
+    "doctor_id": "dr_02",
+    "summary": "Reviewed past medical history of anemia. Current symptoms stable. Advised regular exercise.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "6d61d214-aff6-4612-aa4c-6dfc5a016fa7",
+    "doctor_id": "dr_07",
+    "summary": "Presented with shortness of breath, ongoing for 3 days. Physical exam normal. Plan: start antibiotics.",
+    "future_outcome": "Health continues to decline under current treatment."
+  },
+  {
+    "id": "ef713632-1978-40bc-aa39-cdaf6d05e175",
+    "doctor_id": "dr_05",
+    "summary": "Complaints of cough. Suspected sinusitis. Ordered ECG and started inhaler use.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "59f61966-07e5-4db7-8df5-9bc6ef0dc26b",
+    "doctor_id": "dr_09",
+    "summary": "Complaints of cough. Suspected migraine. Ordered MRI and started lifestyle changes.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "1cbfcc2c-cdcb-425b-9241-6fae6cb52fc8",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing headache after recent travel. Recommended Ibuprofen. Referral to cardiology.",
+    "future_outcome": "Excellent recovery progress, no ongoing concerns."
+  },
+  {
+    "id": "3c037c38-ce32-411b-967a-348a84407450",
+    "doctor_id": "dr_08",
+    "summary": "Patient experiencing cough after recent travel. Recommended Metformin. Referral to neurology.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "c1adf13a-2542-4f7e-a408-78efabd0f3bc",
+    "doctor_id": "dr_10",
+    "summary": "Patient reported ongoing rash. Prescribed Lisinopril and advised to rest. Follow-up in 2 weeks.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "64faaa9a-daf6-4b1f-81a0-90b3c15db374",
+    "doctor_id": "dr_10",
+    "summary": "Patient reported ongoing rash. Prescribed Ibuprofen and advised to increase hydration. Follow-up in 2 weeks.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "41570db0-0d17-4d80-b88f-3adf8e6aa1a4",
+    "doctor_id": "dr_07",
+    "summary": "Reviewed past medical history of hypertension. Current symptoms stable. Advised smoking cessation.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "4b5b9ce5-40a1-469f-b1c0-5b93c67563e9",
+    "doctor_id": "dr_01",
+    "summary": "Complaints of shortness of breath. Suspected sinusitis. Ordered MRI and started topical cream.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "076b7acf-5d35-4da1-9431-64b1bcd76c2c",
+    "doctor_id": "dr_05",
+    "summary": "Follow-up for anemia. Improvements noted. Will reassess in 1 week.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "dae5a3e4-f3b5-44c2-ae05-56da47fda180",
+    "doctor_id": "dr_10",
+    "summary": "Presented with dizziness, ongoing for 1 month. Physical exam normal. Plan: start antibiotics.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "90b4c282-8bb4-432b-8779-5c2b66c5df72",
+    "doctor_id": "dr_07",
+    "summary": "Consultation regarding hypertension. No alarming signs. Suggested inhaler use and routine monitoring.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "e47aa464-7318-44e0-901f-995020dfafa2",
+    "doctor_id": "dr_09",
+    "summary": "Complaints of back pain. Suspected UTI. Ordered X-ray and started lifestyle changes.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "dcda03a5-8c9f-40f0-9f40-7d5f32a0f5ef",
+    "doctor_id": "dr_04",
+    "summary": "Complaints of cough. Suspected sinusitis. Ordered X-ray and started topical cream.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "69459255-c07d-4de2-8c10-5d6db5add7ca",
+    "doctor_id": "dr_06",
+    "summary": "Discussed test results for X-ray. Findings indicate no abnormalities. Next steps: refer to specialist.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "269c902e-29bc-4a16-998e-25dfaa4be43d",
+    "doctor_id": "dr_03",
+    "summary": "Presented with headache, ongoing for 1 month. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "03f8836f-6ade-4c83-a1f0-de58d6a6f05e",
+    "doctor_id": "dr_04",
+    "summary": "Complaints of fatigue. Suspected UTI. Ordered MRI and started topical cream.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "66588885-ea20-4f4e-ac9e-816fa19897e1",
+    "doctor_id": "dr_06",
+    "summary": "Complaints of cough. Suspected UTI. Ordered CT scan and started dietary modifications.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "6910e948-e4d0-4ce1-8699-fb8d5a02caf3",
+    "doctor_id": "dr_05",
+    "summary": "Consultation regarding hypertension. No alarming signs. Suggested dietary modifications and routine monitoring.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "c86646af-8525-4169-951b-c7b006f7a2e0",
+    "doctor_id": "dr_09",
+    "summary": "Patient reported ongoing back pain. Prescribed Amoxicillin and advised to increase hydration. Follow-up in 2 weeks.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "7476d64f-fe35-4828-aa10-530d9c53ddf3",
+    "doctor_id": "dr_09",
+    "summary": "Follow-up for migraines. Improvements noted. Will reassess in 2 weeks.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "26f25f81-ae6e-4e2e-b466-ae3cd01c6716",
+    "doctor_id": "dr_01",
+    "summary": "Reviewed past medical history of diabetes. Current symptoms stable. Advised improved sleep hygiene.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "dbb39f8e-237d-4769-86cd-df0de31289d2",
+    "doctor_id": "dr_01",
+    "summary": "Discussed test results for CT scan. Findings indicate mild inflammation. Next steps: schedule a follow-up.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "fbcf7792-5ae8-43ac-ae47-22029ef73768",
+    "doctor_id": "dr_08",
+    "summary": "Presented with headache, ongoing for 1 week. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "39652d91-a221-4be1-b84e-f32c31ae201c",
+    "doctor_id": "dr_09",
+    "summary": "Presented with shortness of breath, ongoing for 1 month. Physical exam normal. Plan: start antibiotics.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "a43b6b30-c3c6-43f7-a46f-ffb0c31b766e",
+    "doctor_id": "dr_04",
+    "summary": "Patient experiencing dizziness after recent viral infection. Recommended Amoxicillin. Referral to dermatology.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "a91a0307-328c-4626-be2a-56d35896f7b3",
+    "doctor_id": "dr_06",
+    "summary": "Presented with fatigue, ongoing for 2 weeks. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "b0148863-9b1f-45fb-8bf2-da71ec44da74",
+    "doctor_id": "dr_08",
+    "summary": "Patient reported ongoing headache. Prescribed Ventolin and advised to monitor symptoms. Follow-up in 2 weeks.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "dd6c024b-4f36-4c17-9986-7ab8d2f19e5b",
+    "doctor_id": "dr_04",
+    "summary": "Complaints of abdominal pain. Suspected migraine. Ordered X-ray and started lifestyle changes.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "01a359b4-4165-4394-8ef2-74fbc4668a94",
+    "doctor_id": "dr_06",
+    "summary": "Patient experiencing back pain after recent travel. Recommended Paracetamol. Referral to orthopedics.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "3c805c23-5a55-4b7e-be01-1d7341e3345d",
+    "doctor_id": "dr_07",
+    "summary": "Patient experiencing cough after recent fall. Recommended Ventolin. Referral to neurology.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "c1b6c0a9-acff-4aeb-b3bb-92e48efdd703",
+    "doctor_id": "dr_06",
+    "summary": "Patient experiencing fatigue after recent viral infection. Recommended Ibuprofen. Referral to neurology.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "ddbcc44e-9d1b-4014-9416-a08513bcbc17",
+    "doctor_id": "dr_03",
+    "summary": "Patient reported ongoing headache. Prescribed Lisinopril and advised to increase hydration. Follow-up in 3 days.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "720fb441-8733-4d15-8433-7690727eab9c",
+    "doctor_id": "dr_09",
+    "summary": "Consultation regarding asthma. No alarming signs. Suggested lifestyle changes and routine monitoring.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "b9977a81-0a6d-48da-94f6-b202303b6b80",
+    "doctor_id": "dr_06",
+    "summary": "Discussed test results for X-ray. Findings indicate elevated levels. Next steps: observe for now.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "460c9261-60b0-4873-bdc0-84065a36f4d5",
+    "doctor_id": "dr_05",
+    "summary": "Consultation regarding eczema. No alarming signs. Suggested dietary modifications and routine monitoring.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "8ed4dd6b-d072-4ad9-8e06-ef1fb1f84003",
+    "doctor_id": "dr_03",
+    "summary": "Presented with rash, ongoing for 1 month. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "848aaa2d-bbda-48b4-a278-cf2a507fa9a9",
+    "doctor_id": "dr_02",
+    "summary": "Reviewed past medical history of migraines. Current symptoms stable. Advised improved sleep hygiene.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "804e2fcd-ca4c-4f75-9c86-69a8ed15ba23",
+    "doctor_id": "dr_01",
+    "summary": "Reviewed past medical history of migraines. Current symptoms stable. Advised smoking cessation.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "58aa5cc6-e3c5-4b5e-a275-8b100a0295e9",
+    "doctor_id": "dr_08",
+    "summary": "Complaints of rash. Suspected sinusitis. Ordered MRI and started dietary modifications.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "6923ba33-1f35-4cce-ac49-21a0b1dc111c",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing back pain after recent travel. Recommended Paracetamol. Referral to cardiology.",
+    "future_outcome": "Excellent recovery progress, no ongoing concerns."
+  },
+  {
+    "id": "0906986d-548d-4c0c-8552-d227e95b12a3",
+    "doctor_id": "dr_06",
+    "summary": "Presented with abdominal pain, ongoing for 1 week. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "0a50e0b3-e405-4fc0-86bc-60bf8973712c",
+    "doctor_id": "dr_05",
+    "summary": "Patient reported ongoing fatigue. Prescribed Ibuprofen and advised to return if worsens. Follow-up in 1 month.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "8614c9a2-9dd4-4b96-8588-fbce50fe95ad",
+    "doctor_id": "dr_06",
+    "summary": "Patient reported ongoing headache. Prescribed Ventolin and advised to increase hydration. Follow-up in 1 month.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "0ec6db62-00de-4369-88b9-8940a83aad60",
+    "doctor_id": "dr_10",
+    "summary": "Presented with rash, ongoing for 2 weeks. Physical exam normal. Plan: pain management.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "2b2e7a2d-2bf6-48e6-8873-e9a478505473",
+    "doctor_id": "dr_05",
+    "summary": "Complaints of cough. Suspected bronchitis. Ordered X-ray and started inhaler use.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "bda1c16a-374a-49bf-94f1-ccc815b38ff5",
+    "doctor_id": "dr_05",
+    "summary": "Presented with fatigue, ongoing for 1 week. Physical exam normal. Plan: pain management.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "2c9a7777-0aae-4082-a48f-0d4bdbf3e8b2",
+    "doctor_id": "dr_08",
+    "summary": "Consultation regarding asthma. No alarming signs. Suggested dietary modifications and routine monitoring.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "a0a1d40b-679d-4265-8bfd-876224539c97",
+    "doctor_id": "dr_10",
+    "summary": "Consultation regarding diabetes. No alarming signs. Suggested topical cream and routine monitoring.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "902f100a-11df-457c-8cf2-aa971865fa0e",
+    "doctor_id": "dr_04",
+    "summary": "Patient reported ongoing shortness of breath. Prescribed Metformin and advised to return if worsens. Follow-up in 1 week.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "a1be2e4e-2d86-4b33-83fc-385d61ee0280",
+    "doctor_id": "dr_04",
+    "summary": "Consultation regarding anemia. No alarming signs. Suggested lifestyle changes and routine monitoring.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "c655caca-3567-492a-a516-ad31a2d16290",
+    "doctor_id": "dr_09",
+    "summary": "Patient experiencing fatigue after recent travel. Recommended Lisinopril. Referral to cardiology.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "0690925b-01e6-473d-986b-5de8b03f01f2",
+    "doctor_id": "dr_09",
+    "summary": "Patient experiencing shortness of breath after recent travel. Recommended Metformin. Referral to dermatology.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "b94e79f9-e258-430b-b17f-3759cdde5236",
+    "doctor_id": "dr_02",
+    "summary": "Patient reported ongoing back pain. Prescribed Ventolin and advised to return if worsens. Follow-up in 3 days.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "b6d8b09f-a0d5-4acd-ad5a-13eaa6ea2b84",
+    "doctor_id": "dr_01",
+    "summary": "Patient reported ongoing cough. Prescribed Metformin and advised to return if worsens. Follow-up in 3 days.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "27575e59-02bc-4c80-837d-2d671ac4f11f",
+    "doctor_id": "dr_03",
+    "summary": "Presented with back pain, ongoing for 3 days. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "c12c87d3-2cd3-455e-8a51-fc5ecbc1c37e",
+    "doctor_id": "dr_08",
+    "summary": "Complaints of back pain. Suspected bronchitis. Ordered blood test and started lifestyle changes.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "45745a18-a28b-4f47-8375-0c60efc7082b",
+    "doctor_id": "dr_04",
+    "summary": "Consultation regarding asthma. No alarming signs. Suggested inhaler use and routine monitoring.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "9106fab2-1aca-40f9-8c7c-e644358a3374",
+    "doctor_id": "dr_09",
+    "summary": "Complaints of headache. Suspected UTI. Ordered ECG and started lifestyle changes.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "a0b7177c-2213-40f2-baf5-3cdd2e334190",
+    "doctor_id": "dr_09",
+    "summary": "Discussed test results for X-ray. Findings indicate normal limits. Next steps: refer to specialist.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "33358a7e-e1cb-4c86-a97c-2dfdf573fef8",
+    "doctor_id": "dr_03",
+    "summary": "Patient reported ongoing shortness of breath. Prescribed Ventolin and advised to monitor symptoms. Follow-up in 3 days.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "a2161358-3b7f-4fb1-a7ab-022b061ecbbf",
+    "doctor_id": "dr_01",
+    "summary": "Patient experiencing rash after recent minor surgery. Recommended Ibuprofen. Referral to cardiology.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "714f3352-abbc-4f05-87f8-54337b7ee5c7",
+    "doctor_id": "dr_05",
+    "summary": "Patient experiencing back pain after recent minor surgery. Recommended Lisinopril. Referral to cardiology.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "9024850c-d4ca-4b91-b552-1da2f5a1ffb7",
+    "doctor_id": "dr_08",
+    "summary": "Presented with shortness of breath, ongoing for 2 weeks. Physical exam normal. Plan: start antibiotics.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "cfba6b41-a81d-47bb-8110-b9e6bae124cc",
+    "doctor_id": "dr_07",
+    "summary": "Patient reported ongoing shortness of breath. Prescribed Ventolin and advised to increase hydration. Follow-up in 1 month.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "7a96d761-54f3-4613-b03d-165c3b01aa7e",
+    "doctor_id": "dr_01",
+    "summary": "Follow-up for asthma. Improvements noted. Will reassess in 1 month.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "263ca738-e5ed-472d-b3d6-b97988fc35ed",
+    "doctor_id": "dr_06",
+    "summary": "Presented with shortness of breath, ongoing for 3 days. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "0faae9b4-3ded-4956-940f-2dc929f519b6",
+    "doctor_id": "dr_07",
+    "summary": "Consultation regarding migraines. No alarming signs. Suggested dietary modifications and routine monitoring.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "5e83acce-ba57-4604-a678-5f475d02f83d",
+    "doctor_id": "dr_09",
+    "summary": "Presented with fatigue, ongoing for 1 week. Physical exam normal. Plan: start antibiotics.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "d37a56f8-813e-4af6-ba7f-d7d3c43b27a0",
+    "doctor_id": "dr_07",
+    "summary": "Patient experiencing cough after recent minor surgery. Recommended Lisinopril. Referral to orthopedics.",
+    "future_outcome": "Health continues to decline under current treatment."
+  },
+  {
+    "id": "1d7647ad-7716-4c3b-b91f-f465576ecd39",
+    "doctor_id": "dr_07",
+    "summary": "Discussed test results for blood test. Findings indicate elevated levels. Next steps: schedule a follow-up.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "6b8820b6-f226-4509-9989-c0fd88c0fd40",
+    "doctor_id": "dr_10",
+    "summary": "Patient reported ongoing cough. Prescribed Metformin and advised to monitor symptoms. Follow-up in 3 days.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "f2a61544-33b3-482e-9d5b-cacb76e40e53",
+    "doctor_id": "dr_05",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Ibuprofen and advised to monitor symptoms. Follow-up in 2 weeks.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "0dd82768-a587-4bbc-a264-8756e5da0f86",
+    "doctor_id": "dr_02",
+    "summary": "Complaints of back pain. Suspected migraine. Ordered MRI and started dietary modifications.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "69ee8c56-4e15-462d-b7b0-696836a4a7e0",
+    "doctor_id": "dr_01",
+    "summary": "Follow-up for anemia. Improvements noted. Will reassess in 2 weeks.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "1f0aa3b4-dcc5-4efb-b650-41d4ac8fde3a",
+    "doctor_id": "dr_02",
+    "summary": "Presented with abdominal pain, ongoing for 3 days. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "5136a751-0bcf-46b1-9ef7-4076bd0c7e11",
+    "doctor_id": "dr_03",
+    "summary": "Presented with dizziness, ongoing for 3 days. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Symptoms resolved, patient discharged in good condition."
+  },
+  {
+    "id": "4bd4de41-9dd5-468e-85aa-65bb6eeeda88",
+    "doctor_id": "dr_09",
+    "summary": "Patient experiencing cough after recent minor surgery. Recommended Paracetamol. Referral to neurology.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "bd246596-343f-4d33-8c10-15f77894d818",
+    "doctor_id": "dr_06",
+    "summary": "Patient reported ongoing cough. Prescribed Amoxicillin and advised to increase hydration. Follow-up in 1 month.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "fc4e0291-93f8-4062-be8d-7c98a44d4e7e",
+    "doctor_id": "dr_01",
+    "summary": "Reviewed past medical history of eczema. Current symptoms stable. Advised regular exercise.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "2e67c8d3-cd82-473f-a88d-80392b543f7b",
+    "doctor_id": "dr_05",
+    "summary": "Patient reported ongoing fatigue. Prescribed Ibuprofen and advised to increase hydration. Follow-up in 1 month.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "8770bdad-51e4-4711-a772-2a65ac7f860d",
+    "doctor_id": "dr_04",
+    "summary": "Discussed test results for ECG. Findings indicate no abnormalities. Next steps: refer to specialist.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "0453e270-d28f-412b-8670-1837e92a8b89",
+    "doctor_id": "dr_06",
+    "summary": "Patient reported ongoing rash. Prescribed Amoxicillin and advised to increase hydration. Follow-up in 1 week.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "83d06dde-d1b3-4d9f-becb-a2d925b36f0b",
+    "doctor_id": "dr_05",
+    "summary": "Complaints of back pain. Suspected migraine. Ordered CT scan and started lifestyle changes.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "d9ddfce2-94ab-424a-9e01-272e733ae346",
+    "doctor_id": "dr_05",
+    "summary": "Complaints of cough. Suspected bronchitis. Ordered ECG and started inhaler use.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "83930002-ca05-478f-8a76-c89aa637cf23",
+    "doctor_id": "dr_07",
+    "summary": "Presented with fatigue, ongoing for 2 weeks. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "91af7a68-ad41-4b2e-8776-96dfaa8cbd48",
+    "doctor_id": "dr_04",
+    "summary": "Discussed test results for blood test. Findings indicate mild inflammation. Next steps: observe for now.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "e012c8d4-972e-42f7-849f-b81731376f46",
+    "doctor_id": "dr_08",
+    "summary": "Discussed test results for ECG. Findings indicate mild inflammation. Next steps: observe for now.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "34e1e365-18a2-4965-a61c-d2fbc77e4029",
+    "doctor_id": "dr_04",
+    "summary": "Patient experiencing shortness of breath after recent minor surgery. Recommended Ventolin. Referral to cardiology.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "c4f4e764-9852-4234-b5b1-aa1343b685f0",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing abdominal pain after recent travel. Recommended Lisinopril. Referral to orthopedics.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "bca3b7bc-8efd-4d1a-8a49-805d9db09205",
+    "doctor_id": "dr_10",
+    "summary": "Discussed test results for blood test. Findings indicate elevated levels. Next steps: start medication.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "a076a102-3d23-46d1-9efc-3da9923d71e4",
+    "doctor_id": "dr_05",
+    "summary": "Complaints of headache. Suspected bronchitis. Ordered MRI and started inhaler use.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "2c07527b-b4d4-439b-876a-5f7ec73d1a1a",
+    "doctor_id": "dr_09",
+    "summary": "Discussed test results for MRI. Findings indicate mild inflammation. Next steps: refer to specialist.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "68f528b1-5a21-4dfb-b6af-17d31836f613",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing headache after recent fall. Recommended Metformin. Referral to orthopedics.",
+    "future_outcome": "Symptoms resolved, patient discharged in good condition."
+  },
+  {
+    "id": "731c4d5b-af7f-4546-b470-66b4c825c5c3",
+    "doctor_id": "dr_10",
+    "summary": "Patient reported ongoing headache. Prescribed Paracetamol and advised to increase hydration. Follow-up in 1 month.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "329f1634-53af-492b-8a2d-32b0ab39e490",
+    "doctor_id": "dr_02",
+    "summary": "Presented with headache, ongoing for 3 days. Physical exam normal. Plan: pain management.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "fe517db8-9567-4573-bf80-b7a37ac1309c",
+    "doctor_id": "dr_09",
+    "summary": "Discussed test results for X-ray. Findings indicate no abnormalities. Next steps: start medication.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "42d182f0-f526-4ec7-a50b-bf26b470de72",
+    "doctor_id": "dr_06",
+    "summary": "Patient reported ongoing rash. Prescribed Lisinopril and advised to monitor symptoms. Follow-up in 1 week.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "631f83ac-0be9-4f95-95b6-96134fb25e5e",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing rash after recent fall. Recommended Ventolin. Referral to dermatology.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "dfbd5605-6672-4bdd-be83-36631e0baa99",
+    "doctor_id": "dr_02",
+    "summary": "Reviewed past medical history of eczema. Current symptoms stable. Advised reduced salt intake.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "d2961f77-9ff9-4eb6-bfbc-3677e8257312",
+    "doctor_id": "dr_09",
+    "summary": "Patient reported ongoing back pain. Prescribed Lisinopril and advised to return if worsens. Follow-up in 3 days.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "c0d32484-a5aa-4439-bd10-22979287691f",
+    "doctor_id": "dr_10",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Ibuprofen and advised to rest. Follow-up in 2 weeks.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "fe3ce0d1-3871-4a33-8e2b-42ff3e9f9458",
+    "doctor_id": "dr_03",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Metformin and advised to return if worsens. Follow-up in 1 week.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "c01db3a5-caa8-492c-bb97-44676d5c3497",
+    "doctor_id": "dr_05",
+    "summary": "Patient reported ongoing fatigue. Prescribed Ventolin and advised to rest. Follow-up in 1 week.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "d1b4082b-1833-4c7b-b76a-ea921057e254",
+    "doctor_id": "dr_10",
+    "summary": "Complaints of back pain. Suspected migraine. Ordered CT scan and started inhaler use.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "cd02bc94-63aa-4298-b002-d5044c5e5b40",
+    "doctor_id": "dr_10",
+    "summary": "Patient reported ongoing cough. Prescribed Ventolin and advised to monitor symptoms. Follow-up in 3 days.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "2ac45d13-325a-4ce4-9b24-bd39410db25e",
+    "doctor_id": "dr_08",
+    "summary": "Patient reported ongoing rash. Prescribed Metformin and advised to increase hydration. Follow-up in 2 weeks.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "72b4b071-a5aa-4dac-9f7f-ef953e1ea6b4",
+    "doctor_id": "dr_09",
+    "summary": "Complaints of fatigue. Suspected UTI. Ordered X-ray and started inhaler use.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "921734fd-ca27-49b9-8fad-e2f303d6639f",
+    "doctor_id": "dr_03",
+    "summary": "Patient reported ongoing shortness of breath. Prescribed Metformin and advised to increase hydration. Follow-up in 3 days.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "ab613bc2-1b1b-4100-8c56-0cd7707dd951",
+    "doctor_id": "dr_09",
+    "summary": "Patient experiencing rash after recent travel. Recommended Ventolin. Referral to orthopedics.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "6cb8d919-a37a-424d-bc5f-934712838e33",
+    "doctor_id": "dr_07",
+    "summary": "Complaints of back pain. Suspected migraine. Ordered blood test and started lifestyle changes.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "a143734e-e5a6-4525-adf4-9af17344c37f",
+    "doctor_id": "dr_04",
+    "summary": "Patient reported ongoing shortness of breath. Prescribed Ibuprofen and advised to monitor symptoms. Follow-up in 1 month.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "e625f880-a7f7-423c-9b88-63d0a5c8cc8a",
+    "doctor_id": "dr_05",
+    "summary": "Presented with dizziness, ongoing for 3 days. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "f0c891c8-be13-483c-aef1-b954d89e8cbd",
+    "doctor_id": "dr_08",
+    "summary": "Consultation regarding diabetes. No alarming signs. Suggested inhaler use and routine monitoring.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "735517b2-b4ea-4d12-b568-2fcf1af05df5",
+    "doctor_id": "dr_07",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Ventolin and advised to rest. Follow-up in 3 days.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "4132c490-a5be-43f8-9a60-44988df3dc79",
+    "doctor_id": "dr_02",
+    "summary": "Complaints of back pain. Suspected bronchitis. Ordered MRI and started dietary modifications.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "4c7c1845-18fb-4693-9794-adf3145cb2a2",
+    "doctor_id": "dr_01",
+    "summary": "Patient reported ongoing fatigue. Prescribed Lisinopril and advised to monitor symptoms. Follow-up in 2 weeks.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "801ff26e-e177-4f3a-9c50-2eae742498a1",
+    "doctor_id": "dr_07",
+    "summary": "Discussed test results for MRI. Findings indicate no abnormalities. Next steps: refer to specialist.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "33ebbfe2-448e-4d33-b1e6-bf4a79fff337",
+    "doctor_id": "dr_05",
+    "summary": "Discussed test results for ECG. Findings indicate mild inflammation. Next steps: start medication.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "0ed2897b-ba6e-4fec-8e4e-10e244f82bf0",
+    "doctor_id": "dr_08",
+    "summary": "Discussed test results for MRI. Findings indicate mild inflammation. Next steps: schedule a follow-up.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "33333cb7-b5e6-4d7f-a59d-7e0598a61b54",
+    "doctor_id": "dr_04",
+    "summary": "Consultation regarding hypertension. No alarming signs. Suggested lifestyle changes and routine monitoring.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "d8d100ff-1432-4922-833f-2eeba3e33c81",
+    "doctor_id": "dr_06",
+    "summary": "Discussed test results for CT scan. Findings indicate elevated levels. Next steps: refer to specialist.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "100dc5cf-580d-4008-a265-8f40cc187fd3",
+    "doctor_id": "dr_08",
+    "summary": "Complaints of dizziness. Suspected UTI. Ordered CT scan and started inhaler use.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "d5a142e1-8467-443f-b277-7daa3dcb5c9a",
+    "doctor_id": "dr_09",
+    "summary": "Discussed test results for MRI. Findings indicate elevated levels. Next steps: start medication.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "c6734f26-f6fb-41c2-8485-a617fc5d1a97",
+    "doctor_id": "dr_02",
+    "summary": "Consultation regarding diabetes. No alarming signs. Suggested lifestyle changes and routine monitoring.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "f8eda01b-68a9-445f-af91-a96932e8fdb9",
+    "doctor_id": "dr_10",
+    "summary": "Complaints of rash. Suspected UTI. Ordered MRI and started lifestyle changes.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "1458a02a-049c-4347-b8f8-ebbe69168aa5",
+    "doctor_id": "dr_05",
+    "summary": "Follow-up for hypertension. Improvements noted. Will reassess in 2 weeks.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "e697b3e8-615d-4ef3-946f-f35e9eeb57b4",
+    "doctor_id": "dr_08",
+    "summary": "Presented with back pain, ongoing for 3 days. Physical exam normal. Plan: start antibiotics.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "3932d9ab-b048-4f89-aa7e-d7b2f40e3a86",
+    "doctor_id": "dr_10",
+    "summary": "Presented with shortness of breath, ongoing for 1 week. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "c63032df-6436-49cc-a08b-d54fe1bb6892",
+    "doctor_id": "dr_08",
+    "summary": "Reviewed past medical history of diabetes. Current symptoms stable. Advised regular exercise.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "a2708002-6418-4683-a6d5-9d8e25894cf1",
+    "doctor_id": "dr_05",
+    "summary": "Patient reported ongoing cough. Prescribed Amoxicillin and advised to increase hydration. Follow-up in 2 weeks.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "907802cb-683a-497e-b4e5-0f4dc6d3e926",
+    "doctor_id": "dr_09",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Lisinopril and advised to return if worsens. Follow-up in 1 month.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "77084aa6-0070-440e-b41f-eb1da5d5a201",
+    "doctor_id": "dr_05",
+    "summary": "Patient reported ongoing fatigue. Prescribed Ibuprofen and advised to return if worsens. Follow-up in 1 week.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "44b1a6fe-2e65-4915-8eb6-9197bf3c426f",
+    "doctor_id": "dr_02",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Amoxicillin and advised to rest. Follow-up in 1 week.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "4cc1036d-f4aa-4f1a-965d-d7a0d91d8be4",
+    "doctor_id": "dr_10",
+    "summary": "Follow-up for diabetes. Improvements noted. Will reassess in 2 weeks.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "633c3fcd-9265-4513-8af2-4e222a680db3",
+    "doctor_id": "dr_06",
+    "summary": "Patient experiencing rash after recent minor surgery. Recommended Ventolin. Referral to dermatology.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "43f022ae-aa19-4758-9f27-28201737b78a",
+    "doctor_id": "dr_10",
+    "summary": "Reviewed past medical history of migraines. Current symptoms stable. Advised reduced salt intake.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "c4030ec8-55c7-4b51-b0fa-41a36c7da33e",
+    "doctor_id": "dr_06",
+    "summary": "Patient reported ongoing rash. Prescribed Metformin and advised to return if worsens. Follow-up in 1 week.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "50f83cb8-2848-48bd-8850-faae1bc2ba0a",
+    "doctor_id": "dr_06",
+    "summary": "Presented with fatigue, ongoing for 1 month. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "cc0501f2-50f1-4ab1-9dd6-cf4f7c5db3f4",
+    "doctor_id": "dr_07",
+    "summary": "Patient experiencing dizziness after recent fall. Recommended Ibuprofen. Referral to neurology.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "4013bb3a-9861-42e7-8f0d-88926e1c684b",
+    "doctor_id": "dr_08",
+    "summary": "Patient experiencing headache after recent minor surgery. Recommended Ibuprofen. Referral to dermatology.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "7216752c-bbd8-4f23-8551-ada2935336ca",
+    "doctor_id": "dr_07",
+    "summary": "Complaints of back pain. Suspected sinusitis. Ordered blood test and started topical cream.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "a18a3af0-32e4-47fb-833f-d1b8ea8766c0",
+    "doctor_id": "dr_04",
+    "summary": "Complaints of dizziness. Suspected sinusitis. Ordered X-ray and started lifestyle changes.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "28c9185f-8dff-41cf-ae40-f5ec8d1fa7a6",
+    "doctor_id": "dr_01",
+    "summary": "Patient experiencing rash after recent minor surgery. Recommended Ventolin. Referral to neurology.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "2e8d54e9-ea24-4d08-9a57-04f16c24384e",
+    "doctor_id": "dr_05",
+    "summary": "Presented with abdominal pain, ongoing for 2 weeks. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "1e95593a-c646-4eda-b987-71bfaa3e7dc0",
+    "doctor_id": "dr_06",
+    "summary": "Patient reported ongoing rash. Prescribed Ventolin and advised to monitor symptoms. Follow-up in 1 month.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "5651a1d8-c5f0-4e29-b394-208150dada78",
+    "doctor_id": "dr_10",
+    "summary": "Presented with cough, ongoing for 2 weeks. Physical exam normal. Plan: start antibiotics.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "2d6c25c7-46db-4b6b-9058-f161eb684fc9",
+    "doctor_id": "dr_01",
+    "summary": "Presented with cough, ongoing for 3 days. Physical exam normal. Plan: pain management.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "5889ba43-1c05-455c-bc55-7c76446d6da4",
+    "doctor_id": "dr_09",
+    "summary": "Patient experiencing abdominal pain after recent travel. Recommended Amoxicillin. Referral to dermatology.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "dd075120-c51c-4b73-b996-c932bfba2b40",
+    "doctor_id": "dr_07",
+    "summary": "Complaints of headache. Suspected migraine. Ordered X-ray and started dietary modifications.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "96eb3be2-e2ef-46fa-a3fa-67e731e94c23",
+    "doctor_id": "dr_09",
+    "summary": "Consultation regarding diabetes. No alarming signs. Suggested dietary modifications and routine monitoring.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "2557b9fc-2715-42d1-89ac-63962bde3730",
+    "doctor_id": "dr_04",
+    "summary": "Complaints of fatigue. Suspected UTI. Ordered ECG and started topical cream.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "26fd55e0-beca-467a-be1f-8cc36fa32ef5",
+    "doctor_id": "dr_01",
+    "summary": "Patient reported ongoing back pain. Prescribed Metformin and advised to return if worsens. Follow-up in 1 week.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "be345c24-4f00-49dd-a65d-15f74587b22a",
+    "doctor_id": "dr_03",
+    "summary": "Complaints of shortness of breath. Suspected UTI. Ordered MRI and started lifestyle changes.",
+    "future_outcome": "Symptoms resolved, patient discharged in good condition."
+  },
+  {
+    "id": "309ff1b4-3a97-4397-bd63-811eb9ad5361",
+    "doctor_id": "dr_07",
+    "summary": "Discussed test results for CT scan. Findings indicate normal limits. Next steps: start medication.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "3e992e37-e9a1-4b90-a61b-fa7a4f2d88e4",
+    "doctor_id": "dr_07",
+    "summary": "Complaints of abdominal pain. Suspected bronchitis. Ordered MRI and started lifestyle changes.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "97ce788a-bdc5-488b-a65e-53826f720b13",
+    "doctor_id": "dr_10",
+    "summary": "Consultation regarding eczema. No alarming signs. Suggested lifestyle changes and routine monitoring.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "397f27a7-e95c-46b6-80a2-4ce98d87167f",
+    "doctor_id": "dr_03",
+    "summary": "Consultation regarding anemia. No alarming signs. Suggested topical cream and routine monitoring.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "8c2bf9e2-90f1-48f2-9718-4899461ef397",
+    "doctor_id": "dr_03",
+    "summary": "Complaints of back pain. Suspected sinusitis. Ordered X-ray and started inhaler use.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "a429ae30-d818-46a4-abdd-fbba48a70c2e",
+    "doctor_id": "dr_06",
+    "summary": "Presented with shortness of breath, ongoing for 2 weeks. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "57d7e4f8-c699-4841-810c-04eeda64f0f1",
+    "doctor_id": "dr_09",
+    "summary": "Complaints of fatigue. Suspected sinusitis. Ordered ECG and started dietary modifications.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "a7702a41-3f4c-4f58-8e4f-31087ad37d04",
+    "doctor_id": "dr_04",
+    "summary": "Presented with cough, ongoing for 3 days. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "d865e60c-6643-45e4-9f49-aa409a29d810",
+    "doctor_id": "dr_04",
+    "summary": "Patient reported ongoing headache. Prescribed Paracetamol and advised to monitor symptoms. Follow-up in 1 week.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "af921526-941e-460d-ad23-842ad0e0228e",
+    "doctor_id": "dr_08",
+    "summary": "Patient experiencing back pain after recent travel. Recommended Paracetamol. Referral to dermatology.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "e48210f7-ef70-40b4-9154-f2c2342b6cb8",
+    "doctor_id": "dr_08",
+    "summary": "Patient reported ongoing headache. Prescribed Metformin and advised to increase hydration. Follow-up in 1 week.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "7c9d1ac8-35dd-4147-930d-6dbea0c11560",
+    "doctor_id": "dr_04",
+    "summary": "Patient experiencing cough after recent travel. Recommended Amoxicillin. Referral to neurology.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "5fb5d01c-4c24-4764-942d-9fbc07277382",
+    "doctor_id": "dr_05",
+    "summary": "Presented with cough, ongoing for 1 week. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "d2e74c8c-b4fb-45a2-b8b8-0333af7f71b7",
+    "doctor_id": "dr_01",
+    "summary": "Patient experiencing rash after recent fall. Recommended Ibuprofen. Referral to orthopedics.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "89e343dd-bd10-45c9-931c-3106f3142163",
+    "doctor_id": "dr_06",
+    "summary": "Patient experiencing abdominal pain after recent viral infection. Recommended Metformin. Referral to cardiology.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "78080c15-1f90-40f3-b1ba-410b10e97da9",
+    "doctor_id": "dr_09",
+    "summary": "Reviewed past medical history of diabetes. Current symptoms stable. Advised smoking cessation.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "2e1801e0-3d4c-4aae-9272-690197228c63",
+    "doctor_id": "dr_10",
+    "summary": "Discussed test results for X-ray. Findings indicate no abnormalities. Next steps: schedule a follow-up.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "865a1e8e-0f4b-4daf-92d8-9930d7d64e25",
+    "doctor_id": "dr_01",
+    "summary": "Patient reported ongoing rash. Prescribed Amoxicillin and advised to rest. Follow-up in 1 month.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "edecfdc4-5bae-4b1c-8fab-4481e5cbc3e7",
+    "doctor_id": "dr_05",
+    "summary": "Patient reported ongoing dizziness. Prescribed Metformin and advised to monitor symptoms. Follow-up in 1 week.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "a7ff5ae5-d960-46a5-bb75-0336bc6ddb9e",
+    "doctor_id": "dr_09",
+    "summary": "Patient experiencing dizziness after recent viral infection. Recommended Amoxicillin. Referral to cardiology.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "6e2b6337-f83f-4a53-92bd-ef0bb5ffda74",
+    "doctor_id": "dr_05",
+    "summary": "Patient experiencing back pain after recent minor surgery. Recommended Lisinopril. Referral to orthopedics.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "5854a6d0-ea59-4c12-bed0-c2cc2247cf6d",
+    "doctor_id": "dr_02",
+    "summary": "Reviewed past medical history of diabetes. Current symptoms stable. Advised reduced salt intake.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "778e7b63-3d97-4132-97ad-ebe2d80ff706",
+    "doctor_id": "dr_09",
+    "summary": "Patient experiencing headache after recent travel. Recommended Lisinopril. Referral to orthopedics.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "2b07638e-2e5a-427b-9349-156753973a1c",
+    "doctor_id": "dr_06",
+    "summary": "Patient experiencing abdominal pain after recent travel. Recommended Lisinopril. Referral to neurology.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "4c7e81df-9a43-4313-ab59-c87bc69932eb",
+    "doctor_id": "dr_09",
+    "summary": "Presented with shortness of breath, ongoing for 1 month. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "6e307744-e7d5-494e-bf96-f80f7772a4b8",
+    "doctor_id": "dr_10",
+    "summary": "Follow-up for diabetes. Improvements noted. Will reassess in 3 days.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "158bf4d9-186d-49d9-a039-968cb15b1ad3",
+    "doctor_id": "dr_09",
+    "summary": "Complaints of headache. Suspected bronchitis. Ordered MRI and started topical cream.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "49ee4d52-7ea1-41db-bdde-5b15cce39341",
+    "doctor_id": "dr_09",
+    "summary": "Patient experiencing abdominal pain after recent travel. Recommended Paracetamol. Referral to orthopedics.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "65fe5743-1307-43d6-874f-2639e3eef30c",
+    "doctor_id": "dr_05",
+    "summary": "Follow-up for anemia. Improvements noted. Will reassess in 3 days.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "59e9c832-9246-41f6-9370-f4d667b88db6",
+    "doctor_id": "dr_01",
+    "summary": "Complaints of fatigue. Suspected sinusitis. Ordered X-ray and started topical cream.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "971d034d-5da3-46b8-b33c-7c22969f08bc",
+    "doctor_id": "dr_06",
+    "summary": "Patient reported ongoing shortness of breath. Prescribed Paracetamol and advised to monitor symptoms. Follow-up in 3 days.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "d354852a-7c1d-4d78-9fd8-2bf0eca3ed9b",
+    "doctor_id": "dr_10",
+    "summary": "Presented with fatigue, ongoing for 3 days. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "5a7f05ea-7292-47bd-8dd0-7b93ffbb76a5",
+    "doctor_id": "dr_07",
+    "summary": "Reviewed past medical history of anemia. Current symptoms stable. Advised smoking cessation.",
+    "future_outcome": "Health continues to decline under current treatment."
+  },
+  {
+    "id": "c0408eb2-0afc-4c86-ab94-22d836862823",
+    "doctor_id": "dr_03",
+    "summary": "Presented with back pain, ongoing for 1 month. Physical exam normal. Plan: pain management.",
+    "future_outcome": "Excellent recovery progress, no ongoing concerns."
+  },
+  {
+    "id": "1e3e1e9c-f2e4-4783-988d-0e401bd695a1",
+    "doctor_id": "dr_01",
+    "summary": "Patient experiencing back pain after recent fall. Recommended Ventolin. Referral to cardiology.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "cb997801-6232-47f3-8ed9-84c72c2fe4b6",
+    "doctor_id": "dr_04",
+    "summary": "Patient reported ongoing headache. Prescribed Ibuprofen and advised to return if worsens. Follow-up in 1 month.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "8f10c5f8-3f68-48f0-91d6-0d59af48ac0c",
+    "doctor_id": "dr_10",
+    "summary": "Complaints of back pain. Suspected bronchitis. Ordered CT scan and started lifestyle changes.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "3db6fb11-6507-4957-bfbc-8bfce3e52690",
+    "doctor_id": "dr_04",
+    "summary": "Reviewed past medical history of hypertension. Current symptoms stable. Advised reduced salt intake.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "839c0dba-0371-4c29-ad32-b0c70b793ff7",
+    "doctor_id": "dr_01",
+    "summary": "Discussed test results for blood test. Findings indicate no abnormalities. Next steps: start medication.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "280388bb-ecd6-45fb-9ad1-fc72f7c3f3c9",
+    "doctor_id": "dr_01",
+    "summary": "Complaints of rash. Suspected UTI. Ordered X-ray and started dietary modifications.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "cd26c202-4211-4d2c-b610-46bc44772f5c",
+    "doctor_id": "dr_05",
+    "summary": "Presented with rash, ongoing for 3 days. Physical exam normal. Plan: start antibiotics.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "6b150efa-8049-4675-a744-427b933093d7",
+    "doctor_id": "dr_06",
+    "summary": "Consultation regarding eczema. No alarming signs. Suggested topical cream and routine monitoring.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "831f1876-b3db-482f-acda-e0ac78435a8b",
+    "doctor_id": "dr_05",
+    "summary": "Presented with headache, ongoing for 1 month. Physical exam normal. Plan: pain management.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "a012f4e6-0dbb-4fe2-9368-6c679ecf35a4",
+    "doctor_id": "dr_07",
+    "summary": "Patient experiencing shortness of breath after recent minor surgery. Recommended Lisinopril. Referral to dermatology.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "7cc87ad9-4769-49cf-a20e-11b164f88448",
+    "doctor_id": "dr_02",
+    "summary": "Consultation regarding migraines. No alarming signs. Suggested lifestyle changes and routine monitoring.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "ced9d377-223e-4245-aada-72b09bede35a",
+    "doctor_id": "dr_09",
+    "summary": "Patient experiencing back pain after recent travel. Recommended Ibuprofen. Referral to neurology.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "8a0e98e3-dc96-499c-968b-2f24bb030236",
+    "doctor_id": "dr_08",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Ventolin and advised to monitor symptoms. Follow-up in 3 days.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "a218d65e-47ba-4fc7-afe6-3226428fb925",
+    "doctor_id": "dr_04",
+    "summary": "Patient experiencing shortness of breath after recent viral infection. Recommended Metformin. Referral to orthopedics.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "bb2378ee-216d-41c1-8612-faf4fc20d9f0",
+    "doctor_id": "dr_07",
+    "summary": "Patient experiencing back pain after recent travel. Recommended Ventolin. Referral to neurology.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "9a15e21e-6067-45cf-85aa-21056b56e994",
+    "doctor_id": "dr_04",
+    "summary": "Patient reported ongoing dizziness. Prescribed Metformin and advised to rest. Follow-up in 2 weeks.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "0860203e-49c3-4867-97e9-8709c7488a7d",
+    "doctor_id": "dr_04",
+    "summary": "Discussed test results for MRI. Findings indicate elevated levels. Next steps: refer to specialist.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "97ea8469-3b1f-4c65-be98-a952eb4a7b31",
+    "doctor_id": "dr_10",
+    "summary": "Patient reported ongoing cough. Prescribed Lisinopril and advised to monitor symptoms. Follow-up in 2 weeks.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "97a5e755-e4ae-4646-b355-99fe2771f824",
+    "doctor_id": "dr_06",
+    "summary": "Patient experiencing shortness of breath after recent fall. Recommended Metformin. Referral to orthopedics.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "9fddc228-0628-4b54-8965-3904494d3e59",
+    "doctor_id": "dr_08",
+    "summary": "Discussed test results for MRI. Findings indicate elevated levels. Next steps: schedule a follow-up.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "7981e080-0cee-4966-aa68-cf8366f7c1ac",
+    "doctor_id": "dr_05",
+    "summary": "Reviewed past medical history of hypertension. Current symptoms stable. Advised improved sleep hygiene.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "39d8d941-79b0-41b2-8dc2-79944dbf1dda",
+    "doctor_id": "dr_10",
+    "summary": "Patient reported ongoing cough. Prescribed Amoxicillin and advised to rest. Follow-up in 1 week.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "965e4b4f-73e3-4cca-adb7-01d70f412cbc",
+    "doctor_id": "dr_10",
+    "summary": "Discussed test results for X-ray. Findings indicate mild inflammation. Next steps: schedule a follow-up.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "f31155dd-1f80-4a94-8e42-3209eeb9f0a6",
+    "doctor_id": "dr_08",
+    "summary": "Patient reported ongoing dizziness. Prescribed Lisinopril and advised to monitor symptoms. Follow-up in 1 week.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "044eacea-7855-41df-9148-9c63bb60b6c9",
+    "doctor_id": "dr_07",
+    "summary": "Discussed test results for blood test. Findings indicate mild inflammation. Next steps: schedule a follow-up.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "ff917809-f638-403e-9699-f2d1c4bf1f2d",
+    "doctor_id": "dr_01",
+    "summary": "Patient experiencing back pain after recent minor surgery. Recommended Metformin. Referral to neurology.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "0edf5682-045b-4967-a041-1cb1ca7a4481",
+    "doctor_id": "dr_03",
+    "summary": "Patient reported ongoing back pain. Prescribed Metformin and advised to increase hydration. Follow-up in 1 week.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "e0cc999f-8540-487b-9b4c-3e8b50fe8b0b",
+    "doctor_id": "dr_08",
+    "summary": "Patient reported ongoing dizziness. Prescribed Metformin and advised to return if worsens. Follow-up in 2 weeks.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "2a3e44ad-95e5-45c5-8424-bb41894f738c",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing fatigue after recent travel. Recommended Metformin. Referral to dermatology.",
+    "future_outcome": "Excellent recovery progress, no ongoing concerns."
+  },
+  {
+    "id": "aef82070-e015-4d50-b654-cd7f497b1644",
+    "doctor_id": "dr_08",
+    "summary": "Patient experiencing headache after recent viral infection. Recommended Metformin. Referral to neurology.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "43fc0bc0-3efc-4460-86bf-656a55e8dad6",
+    "doctor_id": "dr_05",
+    "summary": "Patient experiencing shortness of breath after recent fall. Recommended Lisinopril. Referral to orthopedics.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "c7cb0627-f758-40f0-b39d-043b4ab16473",
+    "doctor_id": "dr_02",
+    "summary": "Consultation regarding anemia. No alarming signs. Suggested dietary modifications and routine monitoring.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "6227fbf5-c21d-441c-beb3-956833b608a0",
+    "doctor_id": "dr_02",
+    "summary": "Reviewed past medical history of hypertension. Current symptoms stable. Advised regular exercise.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "2775aa0f-6292-4e8c-9f1a-d1e0a921b1ec",
+    "doctor_id": "dr_02",
+    "summary": "Complaints of dizziness. Suspected sinusitis. Ordered blood test and started dietary modifications.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "0bc69ef7-5d13-40fd-969d-1be6b8df7af8",
+    "doctor_id": "dr_03",
+    "summary": "Patient reported ongoing shortness of breath. Prescribed Amoxicillin and advised to rest. Follow-up in 2 weeks.",
+    "future_outcome": "Symptoms resolved, patient discharged in good condition."
+  },
+  {
+    "id": "2a86d895-89b7-4f53-8ba1-8706c50a5ecb",
+    "doctor_id": "dr_04",
+    "summary": "Complaints of dizziness. Suspected bronchitis. Ordered ECG and started lifestyle changes.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "c5cce7a5-487b-4118-9a75-68b0f4ac9dac",
+    "doctor_id": "dr_10",
+    "summary": "Discussed test results for ECG. Findings indicate no abnormalities. Next steps: start medication.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "35f9e482-ba29-4f03-93fc-506749d85b41",
+    "doctor_id": "dr_06",
+    "summary": "Reviewed past medical history of eczema. Current symptoms stable. Advised smoking cessation.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "45eea7ca-8115-4b86-9f55-72ff79dc480c",
+    "doctor_id": "dr_01",
+    "summary": "Patient experiencing dizziness after recent fall. Recommended Paracetamol. Referral to neurology.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "71d6fded-f277-4099-9018-abcbea1f71c8",
+    "doctor_id": "dr_06",
+    "summary": "Presented with fatigue, ongoing for 2 weeks. Physical exam normal. Plan: pain management.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "9860fb1b-8692-429c-8909-4c7aa543a28d",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing cough after recent minor surgery. Recommended Metformin. Referral to neurology.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "1011337b-cf66-4c59-b749-a14687775e8e",
+    "doctor_id": "dr_06",
+    "summary": "Complaints of cough. Suspected sinusitis. Ordered CT scan and started inhaler use.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "3b8328e4-dd5e-4de5-bcb5-d1872f211ca5",
+    "doctor_id": "dr_02",
+    "summary": "Discussed test results for MRI. Findings indicate elevated levels. Next steps: observe for now.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "06e28a3f-4053-4cf4-af0d-ec6738ad800a",
+    "doctor_id": "dr_01",
+    "summary": "Complaints of back pain. Suspected UTI. Ordered ECG and started dietary modifications.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "ee866c58-80c8-4910-8f5d-e657384196f3",
+    "doctor_id": "dr_05",
+    "summary": "Presented with fatigue, ongoing for 3 days. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "28b8dc32-75ac-4bba-8ad8-61814a6360d2",
+    "doctor_id": "dr_02",
+    "summary": "Presented with dizziness, ongoing for 1 week. Physical exam normal. Plan: pain management.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "e1d3535e-81dc-46e6-95d9-b39f1b1267f5",
+    "doctor_id": "dr_01",
+    "summary": "Presented with back pain, ongoing for 2 weeks. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Stable condition with signs of improvement."
+  },
+  {
+    "id": "5d6d425e-8a49-4960-88f2-a29fcd703fad",
+    "doctor_id": "dr_07",
+    "summary": "Patient reported ongoing headache. Prescribed Amoxicillin and advised to rest. Follow-up in 3 days.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "155783e3-7963-41d2-8302-89b39db4bee7",
+    "doctor_id": "dr_06",
+    "summary": "Discussed test results for blood test. Findings indicate normal limits. Next steps: observe for now.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "cd3baea2-5dac-461f-9cad-9ea57e37b75e",
+    "doctor_id": "dr_07",
+    "summary": "Complaints of back pain. Suspected UTI. Ordered ECG and started lifestyle changes.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "40deebe6-aa9f-4547-a546-d2a7ffe58f47",
+    "doctor_id": "dr_05",
+    "summary": "Discussed test results for CT scan. Findings indicate no abnormalities. Next steps: observe for now.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "a3a9959c-cf4a-4dd2-9112-a7654b7a6757",
+    "doctor_id": "dr_08",
+    "summary": "Patient experiencing rash after recent minor surgery. Recommended Amoxicillin. Referral to neurology.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "803a3859-7b94-4777-a30b-cd86e4a9ef26",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing abdominal pain after recent fall. Recommended Lisinopril. Referral to neurology.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "81f718f2-91f1-4de1-9305-d111cd1f12e8",
+    "doctor_id": "dr_03",
+    "summary": "Patient reported ongoing back pain. Prescribed Ventolin and advised to rest. Follow-up in 3 days.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "bcb6b2d8-61d3-41ab-8ad3-fe209c916e47",
+    "doctor_id": "dr_10",
+    "summary": "Complaints of fatigue. Suspected UTI. Ordered CT scan and started topical cream.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "e825da74-8d60-483a-888b-2da0a12feb0a",
+    "doctor_id": "dr_07",
+    "summary": "Complaints of rash. Suspected UTI. Ordered ECG and started lifestyle changes.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "57f9ba78-e488-45fc-9012-71b84a5041f7",
+    "doctor_id": "dr_03",
+    "summary": "Complaints of back pain. Suspected bronchitis. Ordered CT scan and started dietary modifications.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "9b38a6dd-31c1-45ed-a94a-4aad04f59545",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing headache after recent viral infection. Recommended Metformin. Referral to cardiology.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "e6cc7f42-99ba-4e77-9655-1236970ffe2b",
+    "doctor_id": "dr_06",
+    "summary": "Patient reported ongoing rash. Prescribed Metformin and advised to rest. Follow-up in 2 weeks.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "1a48f9f8-e55d-4e8a-93b0-1a0b4ddc24b6",
+    "doctor_id": "dr_06",
+    "summary": "Patient experiencing abdominal pain after recent fall. Recommended Metformin. Referral to dermatology.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "213eccc6-682f-49a8-a08b-84c335e5230c",
+    "doctor_id": "dr_07",
+    "summary": "Patient experiencing headache after recent viral infection. Recommended Lisinopril. Referral to neurology.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "da046751-51fd-47c0-80fe-2672afc4cb98",
+    "doctor_id": "dr_01",
+    "summary": "Patient reported ongoing shortness of breath. Prescribed Amoxicillin and advised to monitor symptoms. Follow-up in 1 week.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "d26afda2-5570-4a45-8497-b4aa5526c8f9",
+    "doctor_id": "dr_09",
+    "summary": "Discussed test results for ECG. Findings indicate mild inflammation. Next steps: schedule a follow-up.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "d808fc43-2310-4b9c-9aae-1feb9866c2b1",
+    "doctor_id": "dr_06",
+    "summary": "Patient reported ongoing fatigue. Prescribed Lisinopril and advised to increase hydration. Follow-up in 2 weeks.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "7dd03ba7-87ae-4605-9955-6d9b30d546ce",
+    "doctor_id": "dr_02",
+    "summary": "Complaints of rash. Suspected UTI. Ordered X-ray and started topical cream.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "f51d190c-67f2-4500-bbbf-edea440b2a40",
+    "doctor_id": "dr_08",
+    "summary": "Complaints of fatigue. Suspected bronchitis. Ordered blood test and started topical cream.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "c0258904-bd54-45bf-ac45-b7f6c2ae90ea",
+    "doctor_id": "dr_08",
+    "summary": "Complaints of fatigue. Suspected UTI. Ordered blood test and started inhaler use.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "788425af-e87d-4f7d-ba40-278e81bd8cc1",
+    "doctor_id": "dr_05",
+    "summary": "Complaints of headache. Suspected UTI. Ordered blood test and started dietary modifications.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "0cedeb8e-ad3a-4cea-8673-bbfdea70564d",
+    "doctor_id": "dr_05",
+    "summary": "Patient experiencing dizziness after recent travel. Recommended Metformin. Referral to dermatology.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "b73ef974-e2f8-465c-82bb-1cad7cf3768c",
+    "doctor_id": "dr_04",
+    "summary": "Follow-up for anemia. Improvements noted. Will reassess in 1 month.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "38dbad98-0d21-45d2-83a0-f2e0248c2452",
+    "doctor_id": "dr_08",
+    "summary": "Discussed test results for MRI. Findings indicate no abnormalities. Next steps: observe for now.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "f37b9348-8d94-4e44-aefd-51b27fa3b307",
+    "doctor_id": "dr_01",
+    "summary": "Patient experiencing shortness of breath after recent viral infection. Recommended Lisinopril. Referral to orthopedics.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "8b6fd6d2-4d89-4fb5-bc85-a31d4661851f",
+    "doctor_id": "dr_08",
+    "summary": "Complaints of cough. Suspected migraine. Ordered ECG and started lifestyle changes.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "5535bad7-e94f-419a-8a66-c05a0fd72647",
+    "doctor_id": "dr_03",
+    "summary": "Patient reported ongoing shortness of breath. Prescribed Metformin and advised to rest. Follow-up in 3 days.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "657d14a2-2ac9-4217-8bf0-8848dbfa839c",
+    "doctor_id": "dr_03",
+    "summary": "Follow-up for diabetes. Improvements noted. Will reassess in 1 week.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "04421f0b-e896-4c41-ad89-ea1c8bc9d152",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing back pain after recent viral infection. Recommended Amoxicillin. Referral to neurology.",
+    "future_outcome": "Excellent recovery progress, no ongoing concerns."
+  },
+  {
+    "id": "4c3a028c-2e0f-4d2a-9385-a10554b3ff7a",
+    "doctor_id": "dr_10",
+    "summary": "Complaints of dizziness. Suspected sinusitis. Ordered ECG and started topical cream.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "67b58624-22bc-4725-aa28-3b72e05855d0",
+    "doctor_id": "dr_01",
+    "summary": "Patient reported ongoing dizziness. Prescribed Ventolin and advised to rest. Follow-up in 1 month.",
+    "future_outcome": "Recovery is on track, no concerns noted."
+  },
+  {
+    "id": "c38db528-33f3-4cc3-ab4e-3616e9a4ad05",
+    "doctor_id": "dr_07",
+    "summary": "Patient experiencing fatigue after recent minor surgery. Recommended Lisinopril. Referral to cardiology.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "350c8ed2-4b86-4546-b44c-7ef13f0bee14",
+    "doctor_id": "dr_03",
+    "summary": "Patient reported ongoing headache. Prescribed Ibuprofen and advised to monitor symptoms. Follow-up in 1 week.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "21adc1c4-47ec-49aa-85e3-61babd205e46",
+    "doctor_id": "dr_04",
+    "summary": "Patient reported ongoing fatigue. Prescribed Amoxicillin and advised to increase hydration. Follow-up in 1 week.",
+    "future_outcome": "No significant progress, further observation required."
+  },
+  {
+    "id": "20b8a9c7-3ab6-4ab0-8c67-99a0e70eb079",
+    "doctor_id": "dr_08",
+    "summary": "Patient experiencing rash after recent fall. Recommended Ibuprofen. Referral to neurology.",
+    "future_outcome": "Condition has deteriorated since last visit."
+  },
+  {
+    "id": "90d829d5-0820-4c08-b1c1-0b6245b4a97a",
+    "doctor_id": "dr_06",
+    "summary": "Follow-up for hypertension. Improvements noted. Will reassess in 3 days.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "1c022caa-d20a-44bb-9eaa-47bde5102763",
+    "doctor_id": "dr_01",
+    "summary": "Patient experiencing headache after recent minor surgery. Recommended Lisinopril. Referral to neurology.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "ccb4ae84-2dd6-4580-b552-1b056acaa40f",
+    "doctor_id": "dr_10",
+    "summary": "Follow-up for migraines. Improvements noted. Will reassess in 1 week.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "1c5da33c-8664-4b8b-ab45-a05ef7dd4082",
+    "doctor_id": "dr_04",
+    "summary": "Patient reported ongoing rash. Prescribed Ventolin and advised to increase hydration. Follow-up in 1 week.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "5d36cdda-3401-42dd-895e-c51a22abc5df",
+    "doctor_id": "dr_05",
+    "summary": "Patient reported ongoing dizziness. Prescribed Amoxicillin and advised to rest. Follow-up in 1 week.",
+    "future_outcome": "Patient is in critical condition and under intensive care."
+  },
+  {
+    "id": "64de570b-5623-452a-ae47-bf6ae1520de9",
+    "doctor_id": "dr_03",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Ventolin and advised to rest. Follow-up in 1 week.",
+    "future_outcome": "No complaints at follow-up, patient in good health."
+  },
+  {
+    "id": "3805ec5f-df0c-425c-9225-165ac511df41",
+    "doctor_id": "dr_07",
+    "summary": "Discussed test results for CT scan. Findings indicate elevated levels. Next steps: start medication.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "4815a965-2309-40f5-acc5-105db6c6cc34",
+    "doctor_id": "dr_04",
+    "summary": "Patient reported ongoing rash. Prescribed Metformin and advised to return if worsens. Follow-up in 1 month.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "c80702a7-e6a1-47f5-8054-7a41a882a7ae",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing abdominal pain after recent viral infection. Recommended Paracetamol. Referral to orthopedics.",
+    "future_outcome": "Symptoms have subsided and recovery is complete."
+  },
+  {
+    "id": "8bd0dac9-f96d-404f-a313-4a1ace00d7d1",
+    "doctor_id": "dr_02",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Paracetamol and advised to increase hydration. Follow-up in 1 month.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "afa62fa0-6940-45a9-ac21-f31cec0b9e98",
+    "doctor_id": "dr_08",
+    "summary": "Patient experiencing headache after recent viral infection. Recommended Ventolin. Referral to orthopedics.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  },
+  {
+    "id": "af629469-2eea-4069-b245-05303a429bb3",
+    "doctor_id": "dr_09",
+    "summary": "Presented with headache, ongoing for 1 week. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "b0b4ae76-875c-4741-b172-aa48eaa8eeaa",
+    "doctor_id": "dr_09",
+    "summary": "Patient reported ongoing back pain. Prescribed Lisinopril and advised to increase hydration. Follow-up in 2 weeks.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "94fedc54-a5e8-45bb-a39a-496d882cc66d",
+    "doctor_id": "dr_08",
+    "summary": "Patient reported ongoing back pain. Prescribed Paracetamol and advised to monitor symptoms. Follow-up in 2 weeks.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "d2c2b778-0f3d-472e-9cf8-ac32c7bd14f3",
+    "doctor_id": "dr_10",
+    "summary": "Discussed test results for CT scan. Findings indicate elevated levels. Next steps: schedule a follow-up.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "cc7bb8c4-df74-46f5-93a8-f0b868fe17e0",
+    "doctor_id": "dr_01",
+    "summary": "Complaints of abdominal pain. Suspected UTI. Ordered CT scan and started dietary modifications.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "34f2a65b-2a55-4b5c-b9e5-4c7badfc011f",
+    "doctor_id": "dr_06",
+    "summary": "Patient experiencing dizziness after recent fall. Recommended Amoxicillin. Referral to cardiology.",
+    "future_outcome": "Patient's state declined; alternative treatment considered."
+  },
+  {
+    "id": "52f438db-fef8-4933-a88f-0077e721f6f4",
+    "doctor_id": "dr_09",
+    "summary": "Presented with abdominal pain, ongoing for 1 week. Physical exam normal. Plan: perform imaging.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "255f18e6-3af2-4265-89b9-cc7d7889ba5b",
+    "doctor_id": "dr_05",
+    "summary": "Complaints of cough. Suspected migraine. Ordered X-ray and started inhaler use.",
+    "future_outcome": "Patient responded positively to treatment."
+  },
+  {
+    "id": "3ca16c94-0cbd-4d1d-bfa4-023c64cf5917",
+    "doctor_id": "dr_07",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Ventolin and advised to rest. Follow-up in 1 month.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "920ba766-439c-4d70-8993-d35728b8587f",
+    "doctor_id": "dr_03",
+    "summary": "Complaints of back pain. Suspected UTI. Ordered CT scan and started topical cream.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "9df6c74f-0830-4a0d-8fd9-eefe5e9f38c8",
+    "doctor_id": "dr_02",
+    "summary": "Presented with cough, ongoing for 1 week. Physical exam normal. Plan: continue current regimen.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "7adefbe4-6234-4d4b-a552-0abcdd77b87f",
+    "doctor_id": "dr_04",
+    "summary": "Presented with back pain, ongoing for 1 month. Physical exam normal. Plan: start antibiotics.",
+    "future_outcome": "Emergency intervention required due to severe decline."
+  },
+  {
+    "id": "bb3dc512-8869-4fec-b6bb-a3285d60912c",
+    "doctor_id": "dr_03",
+    "summary": "Patient experiencing headache after recent fall. Recommended Lisinopril. Referral to neurology.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "940a6db1-8c72-46ea-bd55-574d794740c6",
+    "doctor_id": "dr_10",
+    "summary": "Presented with dizziness, ongoing for 2 weeks. Physical exam normal. Plan: start antibiotics.",
+    "future_outcome": "Patient is feeling much better and has resumed daily activities."
+  },
+  {
+    "id": "f961e3f1-9e6b-45c8-9bef-bdc97a2a932a",
+    "doctor_id": "dr_08",
+    "summary": "Presented with dizziness, ongoing for 1 week. Physical exam normal. Plan: start antibiotics.",
+    "future_outcome": "Symptoms are persistent but manageable."
+  },
+  {
+    "id": "de6d0409-8bd4-435e-9234-112ea1c52721",
+    "doctor_id": "dr_07",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Lisinopril and advised to rest. Follow-up in 2 weeks.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "f4c57328-a69f-424a-8d84-f9482320d58f",
+    "doctor_id": "dr_05",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Paracetamol and advised to increase hydration. Follow-up in 1 week.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "05e14adb-f1b0-4b9f-a83b-d2430a29e36c",
+    "doctor_id": "dr_05",
+    "summary": "Complaints of cough. Suspected sinusitis. Ordered MRI and started lifestyle changes.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "eaf9b062-9e1c-4f60-a8c4-3ee37df734f1",
+    "doctor_id": "dr_08",
+    "summary": "Complaints of abdominal pain. Suspected sinusitis. Ordered ECG and started lifestyle changes.",
+    "future_outcome": "Condition remains unchanged, monitoring continues."
+  },
+  {
+    "id": "320fc3a8-78de-46b8-92ef-6e9e0b42cb1b",
+    "doctor_id": "dr_01",
+    "summary": "Complaints of rash. Suspected sinusitis. Ordered blood test and started topical cream.",
+    "future_outcome": "No further issues reported, patient doing well."
+  },
+  {
+    "id": "cc563a1b-b6bc-4db7-b9b2-b2713e4fffc6",
+    "doctor_id": "dr_05",
+    "summary": "Patient reported ongoing dizziness. Prescribed Lisinopril and advised to return if worsens. Follow-up in 1 month.",
+    "future_outcome": "Symptoms worsened despite intervention."
+  },
+  {
+    "id": "27327aa9-fd8f-4fcd-ae7d-0172c846a6fa",
+    "doctor_id": "dr_03",
+    "summary": "Patient reported ongoing abdominal pain. Prescribed Paracetamol and advised to monitor symptoms. Follow-up in 2 weeks.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "0931180d-9bb9-4a80-9fd8-ad4b62285e9e",
+    "doctor_id": "dr_09",
+    "summary": "Patient reported ongoing dizziness. Prescribed Ibuprofen and advised to return if worsens. Follow-up in 2 weeks.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "07e40cec-b7cb-4f08-b4c5-31ec31212b44",
+    "doctor_id": "dr_04",
+    "summary": "Discussed test results for X-ray. Findings indicate mild inflammation. Next steps: observe for now.",
+    "future_outcome": "No improvement noted; escalation of care necessary."
+  },
+  {
+    "id": "51b4a18f-dbd0-43d7-b2a1-36233c63afcc",
+    "doctor_id": "dr_02",
+    "summary": "Patient experiencing dizziness after recent viral infection. Recommended Lisinopril. Referral to dermatology.",
+    "future_outcome": "Health has returned to baseline with no complications."
+  },
+  {
+    "id": "6599257f-0df6-4a27-900d-3cd596220704",
+    "doctor_id": "dr_04",
+    "summary": "Complaints of shortness of breath. Suspected bronchitis. Ordered MRI and started dietary modifications.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "9cd4af46-d173-4df2-b319-509dc44aecf9",
+    "doctor_id": "dr_09",
+    "summary": "Patient experiencing fatigue after recent fall. Recommended Lisinopril. Referral to cardiology.",
+    "future_outcome": "Patient reports minor improvements but overall stable."
+  },
+  {
+    "id": "76cc8ac5-fc3b-4fe8-ab7e-40a2b7c27c48",
+    "doctor_id": "dr_09",
+    "summary": "Patient reported ongoing back pain. Prescribed Ventolin and advised to return if worsens. Follow-up in 2 weeks.",
+    "future_outcome": "Patient deceased following complications."
+  },
+  {
+    "id": "e1ff476d-e02c-4757-ba7b-259e491a03d9",
+    "doctor_id": "dr_03",
+    "summary": "Patient reported ongoing cough. Prescribed Paracetamol and advised to return if worsens. Follow-up in 3 days.",
+    "future_outcome": "Excellent recovery progress, no ongoing concerns."
+  },
+  {
+    "id": "5be54e25-e75f-4632-823f-6dab6408ba8d",
+    "doctor_id": "dr_08",
+    "summary": "Discussed test results for MRI. Findings indicate no abnormalities. Next steps: schedule a follow-up.",
+    "future_outcome": "Patient admitted for further evaluation due to worsening condition."
+  },
+  {
+    "id": "08d8d777-0606-4046-b6cb-4483db5b3d09",
+    "doctor_id": "dr_04",
+    "summary": "Complaints of shortness of breath. Suspected bronchitis. Ordered blood test and started topical cream.",
+    "future_outcome": "Despite efforts, the patient passed away."
+  }
+]

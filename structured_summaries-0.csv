@@ -1,0 +1,401 @@
+reason_for_consultation,medical_diagnosis,prescription,suggested_follow_up
+follow-up for diabetes,shows improvement,none,reassess in 1 month
+follow-up for migraines,shows improvement,none,reassess in 3 days
+discuss test results for CT scan,test shows normal limits,none,schedule a follow-up
+shortness of breath ongoing for 3 days,none,perform imaging,none
+abdominal pain after recent viral infection,none,Amoxicillin,referral to orthopedics
+discuss test results for X-ray,test shows normal limits,none,observe for now
+complaints of rash,bronchitis,"blood test, topical cream",none
+reviewed past medical history of eczema,current symptoms stable,none,improved sleep hygiene
+complaints of headache,migraine,"X-ray, topical cream",none
+anemia,no alarming signs,inhaler use,routine monitoring
+back pain ongoing for 1 week,none,continue current regimen,none
+ongoing fatigue,none,Lisinopril,"return if worsens, follow-up in 3 days"
+vaccination,none,tetanus shot,none
+reviewed past medical history of migraines,current symptoms stable,none,advised regular exercise
+reviewed past medical history of asthma,asthma with stable symptoms,reduce salt intake,none
+complaints of headache,bronchitis,"blood test, inhaler use",none
+discuss test results for X-ray,mild inflammation,none,refer to specialist
+ongoing fatigue,none,Ibuprofen,"monitor symptoms, follow-up in 1 month"
+consultation regarding migraines,none,topical cream,routine monitoring
+follow-up for asthma,shows improvement,none,reassess in 3 days
+abdominal pain ongoing for 2 weeks,none,perform imaging,none
+routine check-up,none,continue current medications,none
+vaccination,none,hepatitis B shot,none
+follow-up for asthma,shows improvement,none,reassess in 2 weeks
+follow-up for eczema,shows improvement,none,reassess in 3 days
+headache after recent minor surgery,none,Metformin,referral to neurology
+complaints of dizziness,bronchitis,"blood test, dietary modifications",none
+ongoing dizziness,none,Paracetamol,follow-up in 1 month
+follow-up for hypertension,shows improvement,none,reassess in 1 month
+follow-up for eczema,shows improvement,none,reassess in 1 month
+asthma,none,topical cream,routine monitoring
+complaints of fatigue,bronchitis,"X-ray, inhaler use",none
+complaints of dizziness,migraine,"X-ray, dietary modifications",none
+complaints of shortness of breath,sinusitis,"ECG, inhaler use",none
+follow-up for eczema,shows improvement,none,reassess in 2 weeks
+abdominal pain ongoing for 3 days,none,pain management,none
+discuss test results for blood test,test shows no abnormalities,none,schedule a follow-up
+presented with rash ongoing for 2 weeks,none,continue current regimen,none
+back pain after recent fall,none,Amoxicillin,referral to orthopedics
+presented with cough ongoing for 2 weeks,none,pain management,none
+routine check-up,none,continue current medications,none
+ongoing back pain,none,Ibuprofen,"return if worsens, follow-up in 3 days"
+ongoing abdominal pain,none,Amoxicillin,"return if worsens, follow-up in 2 weeks"
+complaints of fatigue,UTI,"X-ray, lifestyle changes",none
+complaints of fatigue,sinusitis,"MRI, dietary modifications",none
+ongoing cough,none,Ventolin,"return if worsens, follow-up in 2 weeks"
+presented with dizziness ongoing for 3 days,none,pain management,none
+shortness of breath after recent minor surgery,none,Paracetamol,referral to cardiology
+shortness of breath,none,"Paracetamol, advised rest",follow-up in 1 month
+discuss test results,mild inflammation,none,refer to specialist
+hypertension,none,topical cream,routine monitoring
+vaccination,none,COVID-19 booster,none
+discuss test results for MRI,mild inflammation,start medication,none
+ongoing dizziness,none,Ventolin,follow-up in 1 week
+discuss test results for X-ray,elevated levels,none,refer to specialist
+routine check-up,none,continue current medications,none
+reviewed past medical history of asthma,asthma with stable symptoms,none,advised regular exercise
+reviewed past medical history of asthma,asthma with stable symptoms,smoking cessation advice,none
+discuss test results for blood test,test shows normal limits,start medication,none
+follow-up for migraines,shows improvement,none,reassess in 1 month
+abdominal pain ongoing for 1 week,none,start antibiotics,none
+reviewed past medical history of anemia,stable anemia,reduce salt intake,none
+ongoing rash,none,"Ventolin, advised to rest",follow-up in 1 week
+discuss test results for X-ray,test shows normal limits,start medication,none
+ongoing cough,none,Paracetamol,"return if worsens, follow-up in 2 weeks"
+ongoing cough,none,"Lisinopril, advised rest",follow-up in 1 week
+presented with headache ongoing for 2 weeks,none,pain management,none
+headache after recent travel,none,Amoxicillin,referral to cardiology
+follow-up for asthma,shows improvement,none,reassess in 1 week
+complaints of headache,sinusitis,"blood test, topical cream",none
+complaints of cough,migraine,"blood test, dietary modifications",none
+follow-up for hypertension,shows improvement,none,reassess in 1 week
+presented with fatigue ongoing for 1 week,none,perform imaging,none
+consultation regarding migraines,none,suggested inhaler use,routine monitoring
+shortness of breath ongoing for 2 weeks,none,continue current regimen,none
+routine check-up,none,continue current medications,none
+presented with fatigue ongoing for 3 days,none,pain management,none
+reviewed past medical history of anemia,stable anemia,improved sleep hygiene,none
+presented with dizziness ongoing for 2 weeks,none,pain management,none
+experiencing rash after recent minor surgery,none,Paracetamol,referral to cardiology
+eczema,none,suggested inhaler use,routine monitoring
+reviewed past medical history of asthma,current symptoms stable,none,improved sleep hygiene
+ongoing headache,none,"Ibuprofen, increase hydration",follow-up in 3 days
+vaccination,none,influenza vaccine,none
+complaints of abdominal pain,UTI,"blood test, lifestyle changes",none
+discuss test results for CT scan,no abnormalities,none,refer to specialist
+complaints of fatigue,migraine suspected,"blood test, lifestyle changes",none
+reviewed past medical history of anemia,stable anemia,none,advised regular exercise
+shortness of breath ongoing for 3 days,none,start antibiotics,none
+complaints of cough,sinusitis,"ECG, inhaler use",none
+complaints of cough,migraine suspected,"ordered MRI, started lifestyle changes",none
+headache after recent travel,none,Ibuprofen,referral to cardiology
+cough after recent travel,none,Metformin,referral to neurology
+ongoing rash,none,Lisinopril,follow-up in 2 weeks
+ongoing rash,none,"Ibuprofen, increase hydration",follow-up in 2 weeks
+reviewed past medical history of hypertension,stable,smoking cessation,none
+complaints of shortness of breath,sinusitis,"MRI, topical cream",none
+follow-up for anemia,shows improvement,none,reassess in 1 week
+presented with dizziness ongoing for 1 month,none,start antibiotics,none
+hypertension,none,inhaler use,routine monitoring
+complaints of back pain,suspected UTI,"X-ray, lifestyle changes",none
+complaints of cough,sinusitis,"X-ray, topical cream",none
+discuss test results for X-ray,no abnormalities,none,refer to specialist
+presented with headache ongoing for 1 month,none,perform imaging,none
+complaints of fatigue,UTI,"MRI, topical cream",none
+complaints of cough,UTI,"CT scan, dietary modifications",none
+hypertension,none,dietary modifications,routine monitoring
+ongoing back pain,none,"Amoxicillin, increase hydration",follow-up in 2 weeks
+follow-up for migraines,shows improvement,none,reassess in 2 weeks
+reviewed past medical history of diabetes,current symptoms stable,none,improved sleep hygiene
+discuss test results for CT scan,mild inflammation,none,schedule a follow-up
+presented with headache ongoing for 1 week,none,continue current regimen,none
+shortness of breath ongoing for 1 month,none,start antibiotics,none
+dizziness after recent viral infection,none,Amoxicillin,referral to dermatology
+presented with fatigue ongoing for 2 weeks,none,perform imaging,none
+ongoing headache,none,Ventolin,"monitor symptoms, follow-up in 2 weeks"
+complaints of abdominal pain,suspected migraine,"X-ray, lifestyle changes",none
+back pain after recent travel,none,Paracetamol,referral to orthopedics
+cough after recent fall,none,Ventolin,referral to neurology
+fatigue after recent viral infection,none,Ibuprofen,referral to neurology
+ongoing headache,none,"Lisinopril, increase hydration",follow-up in 3 days
+consultation regarding asthma,asthma,lifestyle changes,routine monitoring
+discuss test results for X-ray,elevated levels,none,observe for now
+eczema,none,dietary modifications,routine monitoring
+presented with rash ongoing for 1 month,none,perform imaging,none
+reviewed past medical history of migraines,current symptoms stable,none,improved sleep hygiene
+reviewed past medical history of migraines,current symptoms stable,smoking cessation,none
+complaints of rash,sinusitis,"MRI, dietary modifications",none
+back pain after recent travel,none,Paracetamol,referral to cardiology
+abdominal pain ongoing for 1 week,none,continue current regimen,none
+ongoing fatigue,none,Ibuprofen,"return if worsens, follow-up in 1 month"
+ongoing headache,none,"Ventolin, increase hydration",follow-up in 1 month
+presented with rash ongoing for 2 weeks,none,pain management,none
+complaints of cough,bronchitis,"X-ray, inhaler use",none
+presented with fatigue ongoing for 1 week,none,pain management,none
+consultation regarding asthma,asthma,dietary modifications,routine monitoring
+consultation regarding diabetes,none,topical cream,routine monitoring
+shortness of breath,none,Metformin,"return if worsens, follow-up in 1 week"
+anemia,no alarming signs,lifestyle changes,routine monitoring
+fatigue after recent travel,none,Lisinopril,referral to cardiology
+shortness of breath after recent travel,none,Metformin,referral to dermatology
+ongoing back pain,none,Ventolin,"return if worsens, follow-up in 3 days"
+ongoing cough,none,Metformin,"return if worsens, follow-up in 3 days"
+back pain ongoing for 3 days,none,perform imaging,none
+complaints of back pain,bronchitis,"blood test, lifestyle changes",none
+asthma,none,suggested inhaler use,routine monitoring
+complaints of headache,UTI,"ECG, lifestyle changes",none
+discuss test results for X-ray,test shows normal limits,none,refer to specialist
+shortness of breath,none,Ventolin,"monitor symptoms, follow-up in 3 days"
+experiencing rash after recent minor surgery,none,Ibuprofen,referral to cardiology
+back pain after recent minor surgery,none,Lisinopril,referral to cardiology
+shortness of breath ongoing for 2 weeks,none,start antibiotics,none
+ongoing shortness of breath,none,"Ventolin, increase hydration",follow-up in 1 month
+follow-up for asthma,shows improvement,none,reassess in 1 month
+shortness of breath ongoing for 3 days,none,continue current regimen,none
+consultation regarding migraines,none,dietary modifications,routine monitoring
+presented with fatigue ongoing for 1 week,none,start antibiotics,none
+cough after recent minor surgery,none,Lisinopril,referral to orthopedics
+discuss test results for blood test,test shows elevated levels,none,schedule a follow-up
+ongoing cough,none,Metformin,"monitor symptoms, follow-up in 3 days"
+ongoing abdominal pain,none,Ibuprofen,follow-up in 2 weeks
+complaints of back pain,suspected migraine,"ordered MRI, started dietary modifications",none
+follow-up for anemia,shows improvement,none,reassess in 2 weeks
+abdominal pain ongoing for 3 days,none,perform imaging,none
+presented with dizziness ongoing for 3 days,none,continue current regimen,none
+cough after recent minor surgery,none,Paracetamol,referral to neurology
+ongoing cough,none,"Amoxicillin, increase hydration",follow-up in 1 month
+reviewed past medical history of eczema,current symptoms stable,none,advised regular exercise
+ongoing fatigue,none,"Ibuprofen, increase hydration",follow-up in 1 month
+discuss test results for ECG,no abnormalities,none,refer to specialist
+ongoing rash,none,"Amoxicillin, increase hydration",follow-up in 1 week
+complaints of back pain,suspected migraine,"ordered CT scan, started lifestyle changes",none
+complaints of cough,bronchitis,"ECG, inhaler use",none
+fatigue ongoing for 2 weeks,none,continue current regimen,none
+discuss test results for blood test,mild inflammation,none,observe for now
+discuss test results for ECG,mild inflammation,none,observe for now
+shortness of breath after recent minor surgery,none,Ventolin,referral to cardiology
+abdominal pain after recent travel,none,Lisinopril,referral to orthopedics
+discuss test results for blood test,elevated levels,start medication,none
+complaints of headache,bronchitis,"MRI, inhaler use",none
+discuss test results for MRI,mild inflammation,none,refer to specialist
+headache after recent fall,none,Metformin,referral to orthopedics
+ongoing headache,none,"Paracetamol, increase hydration",follow-up in 1 month
+presented with headache ongoing for 3 days,none,pain management,none
+discuss test results for X-ray,no abnormalities,start medication,none
+ongoing rash,none,Lisinopril,"monitor symptoms, follow-up in 1 week"
+patient experiencing rash after recent fall,none,Ventolin,referral to dermatology
+reviewed past medical history of eczema,current symptoms stable,reduce salt intake,none
+ongoing back pain,none,Lisinopril,"return if worsens, follow-up in 3 days"
+ongoing abdominal pain,none,Ibuprofen,follow-up in 2 weeks
+ongoing abdominal pain,none,Metformin,"return if worsens, follow-up in 1 week"
+ongoing fatigue,none,Ventolin,follow-up in 1 week
+complaints of back pain,suspected migraine,"ordered CT scan, started inhaler use",none
+ongoing cough,none,Ventolin,"monitor symptoms, follow-up in 3 days"
+ongoing rash,none,"Metformin, increase hydration",follow-up in 2 weeks
+complaints of fatigue,UTI,"X-ray, inhaler use",none
+shortness of breath,none,"Metformin, increase hydration",follow-up in 3 days
+experiencing rash after recent travel,none,Ventolin,referral to orthopedics
+complaints of back pain,suspected migraine,"blood test, lifestyle changes",none
+ongoing shortness of breath,none,Ibuprofen,"monitor symptoms, follow-up in 1 month"
+presented with dizziness ongoing for 3 days,none,perform imaging,none
+consultation regarding diabetes,none,inhaler use,routine monitoring
+ongoing abdominal pain,none,Ventolin,follow-up in 3 days
+complaints of back pain,bronchitis,"MRI, dietary modifications",none
+ongoing fatigue,none,Lisinopril,"monitor symptoms, follow-up in 2 weeks"
+discuss test results for MRI,no abnormalities,none,refer to specialist
+discuss test results for ECG,mild inflammation,start medication,none
+discuss test results for MRI,mild inflammation,none,schedule a follow-up
+hypertension,none,lifestyle changes,routine monitoring
+discuss test results for CT scan,findings indicate elevated levels,none,refer to specialist
+complaints of dizziness,UTI,"CT scan, inhaler use",none
+discuss test results for MRI,elevated levels,start medication,none
+consultation regarding diabetes,none,lifestyle changes,routine monitoring
+complaints of rash,UTI,"MRI, lifestyle changes",none
+follow-up for hypertension,shows improvement,none,reassess in 2 weeks
+presented with back pain ongoing for 3 days,none,start antibiotics,none
+shortness of breath ongoing for 1 week,none,continue current regimen,none
+reviewed past medical history of diabetes,current symptoms stable,none,advised regular exercise
+ongoing cough,none,"Amoxicillin, increase hydration",follow-up in 2 weeks
+ongoing abdominal pain,none,Lisinopril,"return if worsens, follow-up in 1 month"
+ongoing fatigue,none,Ibuprofen,"return if worsens, follow-up in 1 week"
+ongoing abdominal pain,none,Amoxicillin,follow-up in 1 week
+follow-up for diabetes,shows improvement,none,reassess in 2 weeks
+experiencing rash after recent minor surgery,none,Ventolin,referral to dermatology
+reviewed past medical history of migraines,current symptoms stable,reduce salt intake,none
+ongoing rash,none,Metformin,"return if worsens, follow-up in 1 week"
+fatigue ongoing for 1 month,none,continue current regimen,none
+dizziness after recent fall,none,Ibuprofen,referral to neurology
+headache after recent minor surgery,none,Ibuprofen,referral to dermatology
+complaints of back pain,sinusitis,"blood test, topical cream",none
+complaints of dizziness,sinusitis,"X-ray, lifestyle changes",none
+experiencing rash after recent minor surgery,none,Ventolin,referral to neurology
+abdominal pain ongoing for 2 weeks,none,continue current regimen,none
+ongoing rash,none,Ventolin,"monitor symptoms, follow-up in 1 month"
+presented with cough ongoing for 2 weeks,none,start antibiotics,none
+presented with cough ongoing for 3 days,none,pain management,none
+abdominal pain after recent travel,none,Amoxicillin,referral to dermatology
+complaints of headache,migraine,"X-ray, dietary modifications",none
+consultation regarding diabetes,none,dietary modifications,routine monitoring
+complaints of fatigue,UTI,"ECG, topical cream",none
+ongoing back pain,none,Metformin,"return if worsens, follow-up in 1 week"
+complaints of shortness of breath,UTI,"MRI, lifestyle changes",none
+discuss test results,test shows normal limits,start medication,none
+complaints of abdominal pain,bronchitis,"MRI, lifestyle changes",none
+eczema,none,lifestyle changes,routine monitoring
+anemia,none,topical cream,routine monitoring
+complaints of back pain,sinusitis,"X-ray, inhaler use",none
+shortness of breath ongoing for 2 weeks,none,perform imaging,none
+complaints of fatigue,sinusitis,"ECG, dietary modifications",none
+presented with cough ongoing for 3 days,none,continue current regimen,none
+ongoing headache,none,Paracetamol,follow-up in 1 week
+back pain after recent travel,none,Paracetamol,referral to dermatology
+ongoing headache,none,"Metformin, increase hydration",follow-up in 1 week
+cough after recent travel,none,Amoxicillin,referral to neurology
+presented with cough ongoing for 1 week,none,perform imaging,none
+experiencing rash after recent fall,none,Ibuprofen,referral to orthopedics
+abdominal pain after recent viral infection,none,Metformin,referral to cardiology
+reviewed past medical history of diabetes,current symptoms stable,smoking cessation,none
+discuss test results for X-ray,no abnormalities,none,schedule a follow-up
+ongoing rash,none,"Amoxicillin, rest",follow-up in 1 month
+ongoing dizziness,none,Metformin,"monitor symptoms, follow-up in 1 week"
+dizziness after recent viral infection,none,Amoxicillin,referral to cardiology
+back pain after recent minor surgery,none,Lisinopril,referral to orthopedics
+reviewed past medical history of diabetes,current symptoms stable,reduce salt intake,none
+headache after recent travel,none,Lisinopril,referral to orthopedics
+abdominal pain after recent travel,none,Lisinopril,referral to neurology
+shortness of breath ongoing for 1 month,none,continue current regimen,none
+follow-up for diabetes,shows improvement,none,reassess in 3 days
+complaints of headache,bronchitis,"MRI, topical cream",none
+abdominal pain after recent travel,none,Paracetamol,referral to orthopedics
+follow-up for anemia,shows improvement,none,reassess in 3 days
+complaints of fatigue,sinusitis,"X-ray, topical cream",none
+shortness of breath,none,Paracetamol,"monitor symptoms, follow-up in 3 days"
+presented with fatigue ongoing for 3 days,none,perform imaging,none
+reviewed past medical history of anemia,stable anemia,smoking cessation,none
+back pain ongoing for 1 month,none,pain management,none
+back pain after recent fall,none,Ventolin,referral to cardiology
+ongoing headache,none,Ibuprofen,"return if worsens, follow-up in 1 month"
+complaints of back pain,bronchitis,"CT scan, lifestyle changes",none
+reviewed past medical history of hypertension,stable,reduce salt intake,none
+discuss test results for blood test,no abnormalities,start medication,none
+complaints of rash,UTI,"X-ray, dietary modifications",none
+presented with rash ongoing for 3 days,none,start antibiotics,none
+eczema,none,topical cream,routine monitoring
+presented with headache ongoing for 1 month,none,pain management,none
+shortness of breath after recent minor surgery,none,Lisinopril,referral to dermatology
+consultation regarding migraines,none,suggested lifestyle changes,routine monitoring
+back pain after recent travel,none,Ibuprofen,referral to neurology
+ongoing abdominal pain,none,Ventolin,"monitor symptoms, follow-up in 3 days"
+shortness of breath after recent viral infection,none,Metformin,referral to orthopedics
+back pain after recent travel,none,Ventolin,referral to neurology
+ongoing dizziness,none,"Metformin, advised to rest",follow-up in 2 weeks
+discuss test results for MRI,elevated levels,none,refer to specialist
+ongoing cough,none,Lisinopril,"monitor symptoms, follow-up in 2 weeks"
+shortness of breath after recent fall,none,Metformin,referral to orthopedics
+discuss test results for MRI,findings indicate elevated levels,none,schedule a follow-up
+reviewed past medical history of hypertension,stable,none,improved sleep hygiene
+ongoing cough,none,"Amoxicillin, rest",follow-up in 1 week
+discuss test results for X-ray,mild inflammation,none,schedule a follow-up
+ongoing dizziness,none,Lisinopril,"monitor symptoms, follow-up in 1 week"
+discuss test results for blood test,mild inflammation,none,schedule a follow-up
+back pain after recent minor surgery,none,Metformin,referral to neurology
+ongoing back pain,none,"Metformin, increase hydration",follow-up in 1 week
+ongoing dizziness,none,Metformin,"return if worsens, follow-up in 2 weeks"
+fatigue after recent travel,none,Metformin,referral to dermatology
+headache after recent viral infection,none,Metformin,referral to neurology
+shortness of breath after recent fall,none,Lisinopril,referral to orthopedics
+anemia,none,dietary modifications,routine monitoring
+reviewed past medical history of hypertension,stable condition,none,regular exercise
+complaints of dizziness,sinusitis,"blood test, dietary modifications",none
+ongoing shortness of breath,none,"Amoxicillin, advised rest",follow-up in 2 weeks
+complaints of dizziness,bronchitis,"ECG, lifestyle changes",none
+discuss test results for ECG,no abnormalities,start medication,none
+reviewed past medical history of eczema,current symptoms stable,none,advised smoking cessation
+dizziness after recent fall,none,Paracetamol,referral to neurology
+presented with fatigue ongoing for 2 weeks,none,pain management,none
+cough after recent minor surgery,none,Metformin,referral to neurology
+complaints of cough,sinusitis,"CT scan, inhaler use",none
+discuss test results for MRI,elevated levels,none,observe for now
+complaints of back pain,suspected UTI,"ECG, dietary modifications",none
+fatigue ongoing for 3 days,none,continue current regimen,none
+presented with dizziness ongoing for 1 week,none,pain management,none
+back pain ongoing for 2 weeks,none,continue current regimen,none
+ongoing headache,none,"Amoxicillin, advised to rest",follow-up in 3 days
+discuss test results for blood test,test shows normal limits,none,observe for now
+complaints of back pain,UTI,"ECG, lifestyle changes",none
+discuss test results for CT scan,no abnormalities,none,observe for now
+experiencing rash after recent minor surgery,Amoxicillin recommended,Amoxicillin,referral to neurology
+abdominal pain after recent fall,none,Lisinopril,referral to neurology
+ongoing back pain,none,"Ventolin, advised to rest",follow-up in 3 days
+complaints of fatigue,UTI,"CT scan, topical cream",none
+complaints of rash,UTI,"ECG, lifestyle changes",none
+complaints of back pain,bronchitis,"CT scan, dietary modifications",none
+headache after recent viral infection,none,Metformin,referral to cardiology
+ongoing rash,none,"Metformin, rest",follow-up in 2 weeks
+abdominal pain after recent fall,none,Metformin,referral to dermatology
+headache after recent viral infection,none,Lisinopril,referral to neurology
+shortness of breath,none,Amoxicillin,follow-up in 1 week
+discuss test results for ECG,mild inflammation,none,schedule a follow-up
+ongoing fatigue,none,"Lisinopril, increase hydration",follow-up in 2 weeks
+complaints of rash,UTI,"X-ray, topical cream",none
+complaints of fatigue,bronchitis,"blood test, topical cream",none
+complaints of fatigue,UTI,"blood test, inhaler use",none
+complaints of headache,UTI,"blood test, dietary modifications",none
+dizziness after recent travel,none,Metformin,referral to dermatology
+follow-up for anemia,shows improvement,none,reassess in 1 month
+discuss test results for MRI,no abnormalities,none,observe for now
+shortness of breath after recent viral infection,none,Lisinopril,referral to orthopedics
+complaints of cough,migraine suspected,"ECG, lifestyle changes",none
+ongoing shortness of breath,none,"Metformin, advised to rest",follow-up in 3 days
+follow-up for diabetes,shows improvement,none,reassess in 1 week
+back pain after recent viral infection,none,Amoxicillin,referral to neurology
+complaints of dizziness,sinusitis,"ECG, topical cream",none
+ongoing dizziness,none,Ventolin,follow-up in 1 month
+fatigue after recent minor surgery,none,Lisinopril,referral to cardiology
+ongoing headache,none,Ibuprofen,follow-up in 1 week
+ongoing fatigue,none,"Amoxicillin, increase hydration",follow-up in 1 week
+experiencing rash after recent fall,none,Ibuprofen,referral to neurology
+follow-up for hypertension,shows improvement,none,reassess in 3 days
+headache after recent minor surgery,none,Lisinopril,referral to neurology
+follow-up for migraines,shows improvement,none,reassess in 1 week
+ongoing rash,none,"Ventolin, increase hydration",follow-up in 1 week
+ongoing dizziness,none,"Amoxicillin, advised to rest",follow-up in 1 week
+ongoing abdominal pain,none,Ventolin,follow-up in 1 week
+discuss test results for CT scan,findings indicate elevated levels,start medication,none
+ongoing rash,none,Metformin,"return if worsens, follow-up in 1 month"
+abdominal pain after recent viral infection,none,Paracetamol,referral to orthopedics
+ongoing abdominal pain,none,"Paracetamol, increase hydration",follow-up in 1 month
+headache after recent viral infection,none,Ventolin,referral to orthopedics
+presented with headache ongoing for 1 week,none,perform imaging,none
+ongoing back pain,none,"Lisinopril, increase hydration",follow-up in 2 weeks
+ongoing back pain,none,Paracetamol,follow-up in 2 weeks
+discuss test results for CT scan,findings indicate elevated levels,none,schedule a follow-up
+complaints of abdominal pain,suspected UTI,"CT scan, dietary modifications",none
+dizziness after recent fall,none,Amoxicillin,referral to cardiology
+abdominal pain ongoing for 1 week,none,perform imaging,none
+complaints of cough,migraine,"X-ray, inhaler use",none
+ongoing abdominal pain,none,Ventolin,follow-up in 1 month
+complaints of back pain,UTI,"CT scan, topical cream",none
+presented with cough ongoing for 1 week,none,continue current regimen,none
+back pain ongoing for 1 month,none,start antibiotics,none
+headache after recent fall,none,Lisinopril,referral to neurology
+presented with dizziness ongoing for 2 weeks,none,start antibiotics,none
+presented with dizziness ongoing for 1 week,none,start antibiotics,none
+ongoing abdominal pain,none,Lisinopril,follow-up in 2 weeks
+ongoing abdominal pain,none,"Paracetamol, increase hydration",follow-up in 1 week
+complaints of cough,sinusitis,"MRI, lifestyle changes",none
+complaints of abdominal pain,sinusitis,"ECG, lifestyle changes",none
+complaints of rash,sinusitis,"blood test, topical cream",none
+ongoing dizziness,none,Lisinopril,"return if worsens, follow-up in 1 month"
+ongoing abdominal pain,none,Paracetamol,follow-up in 2 weeks
+ongoing dizziness,none,Ibuprofen,"return if worsens, follow-up in 2 weeks"
+discuss test results for X-ray,mild inflammation,none,observe for now
+dizziness after recent viral infection,none,Lisinopril,referral to dermatology
+complaints of shortness of breath,bronchitis,"MRI, dietary modifications",none
+fatigue after recent fall,none,Lisinopril,referral to cardiology
+ongoing back pain,none,Ventolin,"return if worsens, follow-up in 2 weeks"
+ongoing cough,none,Paracetamol,"return if worsens, follow-up in 3 days"
+discuss test results for MRI,no abnormalities,none,schedule a follow-up
+complaints of shortness of breath,bronchitis,"blood test, topical cream",none
